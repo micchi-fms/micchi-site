@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>MATOME</title>
+  
+  
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="https://micchi-fms.github.io/micchi-site/"/>
+  <updated>2018-05-27T07:03:03.800Z</updated>
+  <id>https://micchi-fms.github.io/micchi-site/</id>
+  
+  <author>
+    <name>micchi</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>メルカリを始めて１ヶ月が経ちました。</title>
+    <link href="https://micchi-fms.github.io/micchi-site/2018/05/27/%E3%83%A1%E3%83%AB%E3%82%AB%E3%83%AA%E3%82%92%E5%A7%8B%E3%82%81%E3%81%A6%EF%BC%91%E3%83%B6%E6%9C%88%E3%81%8C%E7%B5%8C%E3%81%A1%E3%81%BE%E3%81%97%E3%81%9F%E3%80%82/"/>
+    <id>https://micchi-fms.github.io/micchi-site/2018/05/27/メルカリを始めて１ヶ月が経ちました。/</id>
+    <published>2018-05-27T07:02:36.000Z</published>
+    <updated>2018-05-27T07:03:03.800Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="メルカリ"><a href="#メルカリ" class="headerlink" title="メルカリ"></a>メルカリ</h1>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h1 id=&quot;メルカリ&quot;&gt;&lt;a href=&quot;#メルカリ&quot; class=&quot;headerlink&quot; title=&quot;メルカリ&quot;&gt;&lt;/a&gt;メルカリ&lt;/h1&gt;
+      
+    
+    </summary>
+    
+    
+      <category term="blog" scheme="https://micchi-fms.github.io/micchi-site/tags/blog/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>HackU明治大学2014に参加しました</title>
+    <link href="https://micchi-fms.github.io/micchi-site/2014/09/01/HackU%E6%98%8E%E6%B2%BB%E5%A4%A7%E5%AD%A62014%E3%81%AB%E5%8F%82%E5%8A%A0%E3%81%97%E3%81%BE%E3%81%97%E3%81%9F/"/>
+    <id>https://micchi-fms.github.io/micchi-site/2014/09/01/HackU明治大学2014に参加しました/</id>
+    <published>2014-08-31T15:00:00.000Z</published>
+    <updated>2018-05-27T07:01:39.476Z</updated>
+    
+    <content type="html"><![CDATA[<p><img src="/2014/09/01/HackU明治大学2014に参加しました/a.png" alt=""></p><p>2014年9月に開催されたYahoo Japan主催のハッカソンイベントHackUに参加しました。<br>Hack Uについては<a href="https://hacku.yahoo.co.jp/meiji2014/" target="_blank" rel="noopener">こちら</a>をご覧ください。</p><p>そこでは、チーム甲府という名前で参加し、<br>夕食を決めるのをサポートしてくれるシステム 「Fishing Dinner」という作品を発表しました。</p><h1 id="システム内容"><a href="#システム内容" class="headerlink" title="システム内容"></a>システム内容</h1><p>夕食を決めるのについ考え込んでしまうことがあります。<br>そこで、楽しみながら今日夕食の献立を考えれば、ユーザー体験としていいのではないかと考え、釣りをして、釣ったものから夕食の献立のおすすめがレスポンスされるというシステムを作りました。</p><p>釣り？（謎）という感じですが、学生ハッカソンならではに考えてみました。</p><p><img src="https://gyazo.com/03e291e746533923acaa5fac18e6e495.gif" alt=""></p><p>釣り？の具体的なやり方としては、釣り竿の持ち手にスマートフォンをくくりつけ、「Fishing Dinner」を起動させています。<br>また、仮想的な釣り場をつくるために、天井からプロジェクタをつるし、池を表示させます。<br>発表のときは、プロジェクターをつるすことはできなかったので、釣り竿をスクリーンに向けてデモを行いました。</p><p><img src="https://gyazo.com/127ef25921a46a83e27aeae62691d96f.jpg" alt=""></p><p>池を表示させた後、釣りをする動作をすると、獲物が引っ掛かり、スマホのバイブレーションが鳴ります。<br>釣れた合図と同時に、アプリ内で、釣れた獲物（食材）が表示されます。<br>その食材を選択すると、クックパッドにとび、その食材を使った料理が表示される仕組みです。</p><h1 id="参加して"><a href="#参加して" class="headerlink" title="参加して"></a>参加して</h1><p>１年生でもあり、技術力も全くなかったのですが、<br>Yahooの方やチームの人の協力もあって、<br>楽しくでき、とても良い経験になりました。</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;&lt;img src=&quot;/2014/09/01/HackU明治大学2014に参加しました/a.png&quot; alt=&quot;&quot;&gt;&lt;/p&gt;&lt;p&gt;2014年9月に開催されたYahoo Japan主催のハッカソンイベントHackUに参加しました。&lt;br&gt;Hack Uについては&lt;a href=&quot;
+      
+    
+    </summary>
+    
+    
+      <category term="works" scheme="https://micchi-fms.github.io/micchi-site/tags/works/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Processingでカードキャプターさくらの封印の杖を作った</title>
+    <link href="https://micchi-fms.github.io/micchi-site/2014/07/01/Processing%E3%81%A7%E3%82%AB%E3%83%BC%E3%83%89%E3%82%AD%E3%83%A3%E3%83%97%E3%82%BF%E3%83%BC%E3%81%95%E3%81%8F%E3%82%89%E3%81%AE%E5%B0%81%E5%8D%B0%E3%81%AE%E6%9D%96%E3%82%92%E4%BD%9C%E3%81%A3%E3%81%9F/"/>
+    <id>https://micchi-fms.github.io/micchi-site/2014/07/01/Processingでカードキャプターさくらの封印の杖を作った/</id>
+    <published>2014-06-30T15:00:00.000Z</published>
+    <updated>2018-05-27T05:08:34.757Z</updated>
+    
+    <content type="html"><![CDATA[<p><img src="/2014/07/01/Processingでカードキャプターさくらの封印の杖を作った/a.png" alt="画像"></p><p>学部1年のプログラミング演習という授業で、「道具」を模倣したプログラムを制作する課題から、<br>Processingを使って、カードキャプターさくらの封印の杖の動作を模倣してみました。</p><h1 id="プログラミング演習"><a href="#プログラミング演習" class="headerlink" title="プログラミング演習"></a>プログラミング演習</h1><p>学部1年生、５月～７月の間に行われるクォータ授業で、<br>短い間にProcessingという言語を学習します。<br>最終授業であるテーマにそった自由課題がだされ、作成したものをみんなの前で発表します。</p><h1 id="デモ"><a href="#デモ" class="headerlink" title="デモ"></a>デモ</h1><p>動作状況は以下になります。</p><p><img src="https://gyazo.com/993bd02465e576fb89e5f75f9b2b6629.gif" alt="画像1"></p><ul><li>いろんな角度から封印の杖が見ることができます。</li></ul><p><img src="https://gyazo.com/993bd02465e576fb89e5f75f9b2b6629.gif" alt="画像2"></p><ul><li>エンターキーを押すことで、クローカードを呼び出すことができます。</li></ul><p><img src="https://gyazo.com/f6411c92df592e8393c5131cb18b6ddd.gif" alt="画像3"><br><img src="https://gyazo.com/360f9463e52caa94006d5b02997589aa.gif" alt=""></p><ul><li>追加機能として、クリーチャーをクローカードに取り込む要素もいれました。</li></ul><h1 id="おわり"><a href="#おわり" class="headerlink" title="おわり"></a>おわり</h1><p>このモデルは、Blenderといった3Dモデリングツールを使わずに、すべてProcessingで実装したものになります。<br>めっちゃ力技ですｗｗｗ<br>これを作ったあたりから、すこしプログラミングで3Dモデル表示や、グラフィック技術に興味がではじめたのかなーと思ってます。</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;&lt;img src=&quot;/2014/07/01/Processingでカードキャプターさくらの封印の杖を作った/a.png&quot; alt=&quot;画像&quot;&gt;&lt;/p&gt;&lt;p&gt;学部1年のプログラミング演習という授業で、「道具」を模倣したプログラムを制作する課題から、&lt;br&gt;Processingを
+      
+    
+    </summary>
+    
+    
+      <category term="works" scheme="https://micchi-fms.github.io/micchi-site/tags/works/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>どぎまぎメモリアル</title>
+    <link href="https://micchi-fms.github.io/micchi-site/2014/05/01/%E3%81%A9%E3%81%8E%E3%81%BE%E3%81%8E%E3%83%A1%E3%83%A2%E3%83%AA%E3%82%A2%E3%83%AB/"/>
+    <id>https://micchi-fms.github.io/micchi-site/2014/05/01/どぎまぎメモリアル/</id>
+    <published>2014-04-30T15:00:00.000Z</published>
+    <updated>2018-05-27T03:17:34.471Z</updated>
+    
+    <content type="html"><![CDATA[<p><img src="/2014/05/01/どぎまぎメモリアル/a.png" alt="画像"></p><p>EP演習という授業の自由制作課題の一環で制作した恋愛ゲームです。<br>入学したばかりで、プログラミングするのは初めてだったので、<br>いろんな人に協力してもらいながら制作しました(笑)</p><h1 id="EP演習とは"><a href="#EP演習とは" class="headerlink" title="EP演習とは"></a>EP演習とは</h1><p>EP演習とは、入学どはじめに行うHSPを使ったプログラミング授業です。<br>週２回４コマ（たしか）のクォーター授業で、短い期間でプログラミングを習得し、<br>最後に全体を通して、自分が制作したオモシロコンテンツを発表します。</p><p>最後の発表会が大学ホールで行い、外部の方や先輩、OBなどが見に来てくれるので、<br>全体的にワイワイガヤガヤした、高校でいう体育祭的なノリです（たぶん）</p><p>盛り上がったら勝ちみたいな文化があるので、<br>やる気がある人は、面白いもの、技術力すごいものをつくることが多いです（いまは知らないです）<br>入学式初っ端に、みんなの前で発表するので、大やけどする可能性も高いですが（今後の大学生活に関わりそう…）</p><h1 id="コンテンツ内容"><a href="#コンテンツ内容" class="headerlink" title="コンテンツ内容"></a>コンテンツ内容</h1><p>制作した内容としては、クリチャーと恋愛する乙女ゲームです。<br>普通の乙女ゲームだと面白くないので、謎の生物と恋愛をするというツッコミどころが多いものを制作してみましたｗ</p><h2 id="プレイ画面"><a href="#プレイ画面" class="headerlink" title="プレイ画面"></a>プレイ画面</h2><p><img src="https://gyazo.com/01d74ffe3eed4afe6f448f961c3a72ab.gif" alt="画像1"></p><p>相手を選択する画面から好きな相手を選択し、ゲームがスタートします。</p><p><img src="https://gyazo.com/c5c4b72604ffcef21a3e54d820fe7138.jpg" alt="画像2"></p><p>セリフ選択画面も制作し、選択肢ごとにシナリオルートが変更するようにしました。</p><p><img src="https://gyazo.com/8b4db981df17b97999e7e08e348b7c75.gif" alt="画像3"></p><p>良くない選択肢を選ぶと、クリチャーに食われるというブラックエンドが待っています。</p><p><img src="https://gyazo.com/4d6db9dc74302dc0204a7719c589bcc0.gif" alt="画像4"></p><p>ブラックエンドにならずに順調に進んでいくと、クリチャーと結婚するというハッピーエンドが待ってます。</p><h1 id="最後に"><a href="#最後に" class="headerlink" title="最後に"></a>最後に</h1><p>プログラミングが全くわからない状況だったので、先輩にHSPを教えてもらったり、<br>クリーチャーの絵が書けなかったので友人に絵を依頼したり、いろんな方に協力を得て制作しました。</p><p>３日間ぐらいで一気に制作したのですが、本番では結構ウケてもらい、<br>これがきっかけで、プログラミングを真面目に頑張るようになったと思います。</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;&lt;img src=&quot;/2014/05/01/どぎまぎメモリアル/a.png&quot; alt=&quot;画像&quot;&gt;&lt;/p&gt;&lt;p&gt;EP演習という授業の自由制作課題の一環で制作した恋愛ゲームです。&lt;br&gt;入学したばかりで、プログラミングするのは初めてだったので、&lt;br&gt;いろんな人に協力してもらい
+      
+    
+    </summary>
+    
+    
+      <category term="works" scheme="https://micchi-fms.github.io/micchi-site/tags/works/"/>
+    
+  </entry>
+  
+</feed>
