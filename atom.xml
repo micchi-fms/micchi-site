@@ -6,7 +6,7 @@
   <link href="/micchi-site/atom.xml" rel="self"/>
   
   <link href="https://micchi-fms.github.io/micchi-site/"/>
-  <updated>2018-05-27T07:03:03.800Z</updated>
+  <updated>2018-06-07T04:28:17.009Z</updated>
   <id>https://micchi-fms.github.io/micchi-site/</id>
   
   <author>
@@ -17,19 +17,42 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>メルカリを始めて１ヶ月が経ちました。</title>
-    <link href="https://micchi-fms.github.io/micchi-site/2018/05/27/%E3%83%A1%E3%83%AB%E3%82%AB%E3%83%AA%E3%82%92%E5%A7%8B%E3%82%81%E3%81%A6%EF%BC%91%E3%83%B6%E6%9C%88%E3%81%8C%E7%B5%8C%E3%81%A1%E3%81%BE%E3%81%97%E3%81%9F%E3%80%82/"/>
-    <id>https://micchi-fms.github.io/micchi-site/2018/05/27/メルカリを始めて１ヶ月が経ちました。/</id>
-    <published>2018-05-27T07:02:36.000Z</published>
-    <updated>2018-05-27T07:03:03.800Z</updated>
+    <title>インタラクション2018にてデモ発表してきました</title>
+    <link href="https://micchi-fms.github.io/micchi-site/2018/06/01/%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%A9%E3%82%AF%E3%82%B7%E3%83%A7%E3%83%B32018%E3%81%AB%E3%81%A6%E3%83%87%E3%83%A2%E7%99%BA%E8%A1%A8%E3%81%97%E3%81%A6%E3%81%8D%E3%81%BE%E3%81%97%E3%81%9F/"/>
+    <id>https://micchi-fms.github.io/micchi-site/2018/06/01/インタラクション2018にてデモ発表してきました/</id>
+    <published>2018-06-01T13:01:41.000Z</published>
+    <updated>2018-06-07T04:28:17.009Z</updated>
     
-    <content type="html"><![CDATA[<h1 id="メルカリ"><a href="#メルカリ" class="headerlink" title="メルカリ"></a>メルカリ</h1>]]></content>
+    <content type="html"><![CDATA[<p><img src="https://i.gyazo.com/8ed3be61b3d914a6495a580e85f8c307.jpg" alt=""></p><p>インタラクション2018にて「少人数教室を想定した没入型授業動画システムの提案」という研究をデモ発表してきました。</p><h1 id="内容"><a href="#内容" class="headerlink" title="内容"></a>内容</h1><blockquote><p>生徒がネット配信された講義映像を視聴し，低価格で学習を行うことができるオンライン授業が普及しつつある．しかしこの授業形態は，講師と生徒同士が授業と並行して質問や議論をその場で行うことができず，講師は通常の授業のように創発的な授業が作り出せないでいる．また，オンライン授業は手軽に受講できることから，生徒の学習へのモチベーションが持続しにくい．そこで，本研究ではこれらの問題を解決する授業動画撮影手法と，それに適した没入型授業動画システムを提案する．その中では社会的促進といった社会的影響を参考に，視聴者が活発に授業に参加する生徒を認識することで，同調効果が高まり，学習へのモチベーション持続に貢献すると仮定している.この仮定より,本提案システムでは少人数の生徒を含め講義授業の撮影を360度カメラで行っている．しかし，360 度カメラで撮影した映像をそのまま視聴するだけでは，スライドを映したデバイスの映像を認識することが困難であることから，本提案システムでは，動画上からスライドを画像にしたものを貼り付けることで，その問題点を解決した．さらに，音声でメモを取る機能，動画再生位置をスキップする機能を構築した．</p></blockquote><p>卒論の概要から大体抜粋してきましたｗ<br>ざっくりゆうと、講義動画配信サービスの続けにくいといった問題点を解決するために、仮想的に一緒に授業を受ける生徒を表示すれば、同調効果で学習意欲が向上するのではないか？という研究をやってます。<br>仮想的に他の生徒をだすのにVRを使用しているっていう感じです。</p><h1 id="感想"><a href="#感想" class="headerlink" title="感想"></a>感想</h1><p>〆切１０分前ぐらいに提出したのと、〆切日がクリスマスっていうことから、めちゃくちゃ思い出に残ってますｗ<br>とりあえず、出せてよかったのと、初めての学会デモ発表をして、偉い方からいろいろと意見を頂いたり議論したりして、めちゃくちゃ刺激になりましたｗ<br>それと、学内で学会だしてる子が沢山いたので、そういう人とも交流できたし人脈が広がった感じがします。</p><p>いままでVRの面白さに気づけないまま、VR関係のことをやっていたのですが、<br>仮想的にアバターを出して体験者の意見を変えさせたり、触覚に変化を及ぼしたりと…<br>そういう人間の認知、心理現象を変化させるツールとしてVRを使うのはなかなか面白いのかな～と思い始めましたｗ<br>私はどちらかというと、人間の心理状況を変化させることに興味があるので、今後もこの研究を続けていければいいなと思ってます。</p>]]></content>
     
     <summary type="html">
     
       
       
-        &lt;h1 id=&quot;メルカリ&quot;&gt;&lt;a href=&quot;#メルカリ&quot; class=&quot;headerlink&quot; title=&quot;メルカリ&quot;&gt;&lt;/a&gt;メルカリ&lt;/h1&gt;
+        &lt;p&gt;&lt;img src=&quot;https://i.gyazo.com/8ed3be61b3d914a6495a580e85f8c307.jpg&quot; alt=&quot;&quot;&gt;&lt;/p&gt;&lt;p&gt;インタラクション2018にて「少人数教室を想定した没入型授業動画システムの提案」という研究をデモ発表してきまし
+      
+    
+    </summary>
+    
+    
+      <category term="works" scheme="https://micchi-fms.github.io/micchi-site/tags/works/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>TumblrからHexoに移行しました</title>
+    <link href="https://micchi-fms.github.io/micchi-site/2018/06/01/Tumblr%E3%81%8B%E3%82%89Hexo%E3%81%AB%E7%A7%BB%E8%A1%8C%E3%81%97%E3%81%BE%E3%81%97%E3%81%9F/"/>
+    <id>https://micchi-fms.github.io/micchi-site/2018/06/01/TumblrからHexoに移行しました/</id>
+    <published>2018-06-01T12:50:34.000Z</published>
+    <updated>2018-06-04T16:05:04.189Z</updated>
+    
+    <content type="html"><![CDATA[<p><img src="/micchi-site/2018/06/01/TumblrからHexoに移行しました/a.png" alt=""><br>今までポートフォリオサイトとしてTumblrを使用していたのですが、ログインパスワードを忘れてしまったので、それを期にHexo × github pageに移行しました。</p><h1 id="Hexoとは"><a href="#Hexoとは" class="headerlink" title="Hexoとは"></a>Hexoとは</h1><p>Hexoとは、Javascript製の静的ジェネレータになります。<br>静的ジェネレータといえばJekyllが有名なんですが、Rubyがわからなかったので、こちらを使ってみました。<br>テーマも案外豊富なので、なんでもいいからブログを開設したい！っていう方にはお勧めです。</p><h1 id="なぜ移行したか"><a href="#なぜ移行したか" class="headerlink" title="なぜ移行したか"></a>なぜ移行したか</h1><p>第一にtumblrのログインパスワードを忘れたのがはじまりですが、tumblrの自分のページがとんでもなく重くなってしまったことも移行したきっかけです。<br>重くなってしまったのを直せばよかったのですが、カスタムしたのがあまりにも大変だったので、あきらめてhexoにしました。<br>tumblrカスタマイズの大変さを<a href="/micchi-site/2017/07/01/Tumblrのテーマを作成しました/">他の記事</a>で書いているので、そちらを見ていただければ幸いです。</p><p>カスタマイズだけではありません。更新するのもめちゃくちゃ億劫でした。</p><p>私はGyazoというスクリーンショットサービスを使用しているのですが、tumblrはgyazoの画像を取ってこれないので(URLで表示されてしまう)、ローカルに落としてからtumblrにアップロードするしかありませんでした。<br>しかし、画像の容量が大きすぎると、投稿する際にもんのぉ凄い時間が掛かってしまうんです。（原因不明ｗ）<br>なのげで、自分の活動内容やら技術的なブログを書こうと思っても、この更新の遅さと、自分のお怠け性格があいまって、更新率も低下していきました…</p><p>他にも、Instagram,Twitterなどの埋め込みを表示する方法が特殊だったりと…いろんな不便さがあって、Hexoに移行しました。</p><h1 id="Hexoにしてみて"><a href="#Hexoにしてみて" class="headerlink" title="Hexoにしてみて"></a>Hexoにしてみて</h1><p>markdownで記事を書いていくので、めちゃくちゃ更新が楽になりました。<br>埋め込みもそのままコピペすれば動くし、Gyazoの画像もちゃんと表示されます。</p><p>ちなみに、現在github pageを使っていますが、githubはご存知のとおり単一ファイル100MBを超えることはできません。なのでgifなどをあげたいときは、かなり圧縮する必要があります。ですが、Gyazoを使えば高画質のGIFをgithub page上に表示することができるので、Github pageでブログを行うときはGyazoを使うことをお勧めします。</p><p>更新以外にも、テーマカスタマイズもEJSとか分かれば、tumblrみたいに癖が強くないので、簡単にカスタマイズできます。<br>本家のサイトのドキュメントでカスタマイズ解説があるのでそちらをご覧ください。英語がわからない方でも動画解説もあるので、なんとなく雰囲気はわかるはずです笑</p><h1 id="頂戴したテーマ"><a href="#頂戴したテーマ" class="headerlink" title="頂戴したテーマ"></a>頂戴したテーマ</h1><p><a href="https://github.com/artchen/hexo-theme-element" target="_blank" rel="noopener">https://github.com/artchen/hexo-theme-element</a></p><p>私はこちらのテーマをお借りして、色や全体の雰囲気をカスタマイズさせていただきました。<br>90s,80sをイメージして、なんとなく背景にフォルダを設置したら、かわいいんじゃないかとおもってつくりました。（デザインのちゃんとした知識が欲しいですね、感覚でつくってるので）</p><p>もともとのテーマがレスポンシブ対応をちゃんと実装されていたので、スマホでみても、あんまり崩れないはずです。（たぶん）</p><h1 id="おわりに"><a href="#おわりに" class="headerlink" title="おわりに"></a>おわりに</h1><p>Hexo以外にも静的ジェネレータはくさるほどあるので、好きなのでやってみるのが一番だと思います。</p><p>個人的には、コマンド操作とかになれてしまったので、tumblrみたいなwebサービス系CMSはもう使わないかな～と思います。</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;&lt;img src=&quot;/micchi-site/2018/06/01/TumblrからHexoに移行しました/a.png&quot; alt=&quot;&quot;&gt;&lt;br&gt;今までポートフォリオサイトとしてTumblrを使用していたのですが、ログインパスワードを忘れてしまったので、それを期にHexo ×
       
     
     </summary>
@@ -40,65 +63,410 @@
   </entry>
   
   <entry>
+    <title>メルカリを始めて１ヶ月が経ちました。</title>
+    <link href="https://micchi-fms.github.io/micchi-site/2018/05/27/%E3%83%A1%E3%83%AB%E3%82%AB%E3%83%AA%E3%82%92%E5%A7%8B%E3%82%81%E3%81%A6%EF%BC%91%E3%83%B6%E6%9C%88%E3%81%8C%E7%B5%8C%E3%81%A1%E3%81%BE%E3%81%97%E3%81%9F%E3%80%82/"/>
+    <id>https://micchi-fms.github.io/micchi-site/2018/05/27/メルカリを始めて１ヶ月が経ちました。/</id>
+    <published>2018-05-27T07:02:36.000Z</published>
+    <updated>2018-06-03T05:24:33.673Z</updated>
+    
+    <content type="html"><![CDATA[<p><img src="/micchi-site/2018/05/27/メルカリを始めて１ヶ月が経ちました。/mercari_logo.png" alt=""><br>5年ぐらい前はヤフオクを利用して不用品を売っていたのですが、あらゆるところでメルカリの方が売れる！簡単に売れる！という話を小耳にはさんだので、メルカリを１か月前ほどになんとなく始めてみました。<br>なんとなく始めてみたんですが、本当に２４時間以内に売れる！売れる！<br>最初に２５年間使っていないまま放置していたオーブントースターを売ったのですが、１時間以内に売れて本当にびっくりしました。</p><p>そんなかんだで、１ヶ月で６５品出品し、44品売り上げたので、うだうだ一筆したためたいとおもいます。</p><h1 id="メルカリとは"><a href="#メルカリとは" class="headerlink" title="メルカリとは"></a>メルカリとは</h1><p>メルカリとはCMでおなじみのフリマアプリです。スマホからすぐに出品ができ、購入から発送までメルカリ独自システムで取引が行われるので、割とトラブルなく、出品から発送するまで短時間で取引ができます。</p><h1 id="やってみて"><a href="#やってみて" class="headerlink" title="やってみて"></a>やってみて</h1><ul><li><h2 id="明らかに利用者数が多い"><a href="#明らかに利用者数が多い" class="headerlink" title="明らかに利用者数が多い"></a>明らかに利用者数が多い</h2><p>利用者数が多いと謳っているレベルなので、本当に多いと思います。防弾少年団のグッズなんて秒で売れました。これはガチです。</p></li><li><h2 id="商品説明が割と雑でも売れる"><a href="#商品説明が割と雑でも売れる" class="headerlink" title="商品説明が割と雑でも売れる"></a>商品説明が割と雑でも売れる</h2><p>出品する前にざっと他の人たちがどんな感じで売っているのか見てみたのですが、割と雑！<br>ヤフオク民だったので、発送方法、商品状態、決済方法など書かなくていいのか？！？！という感じです。<br>周りも割と雑に説明しているので、その分出品に躊躇せず、ばんばんモノをうれるようになりました。<br>まぁ…ヤフオクの場合は、出品するときに、１円出品するか？とか、課金すると目立たせることできるぞ！？やるかぁ？みたいな謎な項目が大量にあって、出品するのがおっくうになります。そう考えると、メルカリのＵＩはわかりやすいというか最低限のことしか書かなくていいので出品しやすいです。だから一番利用数が多くなったのかな？と思います。<br>あと、商品説明雑な文化以外にも、コメントをしやすい文化もあるのかな～と思います。欲しい人はかならずコメントや質問をしてくるはずだから、商品説明は雑でもいいっていう感じなんですかね？</p></li><li><h2 id="発送がクッソ楽"><a href="#発送がクッソ楽" class="headerlink" title="発送がクッソ楽"></a>発送がクッソ楽</h2><p>これは今のヤフオクや他のフリマアプリでも取り入られてる方法なんでしょうか？<br>らくらくメルカリ便といって、送り先の情報がQRコードで扱われていて、そのQRコードをコンビニに設置されているオンライン端末にかざして、出てきたレシートを店頭にもっていけばそのまま商品が発送できる仕組みです。<br>説明が雑なので、詳しく知りたい方は他のサイトを見てください（投げやり）<br>いやぁ、本当この仕組みは楽で、昔は発送方法とかいちいち調べて一番安く送る方法を調べてから出品していたり、購入者にいちいち発送方法何がいいか聞いていたので、そういう取引をしなくなったのは出品者側としてはめっちゃ助かってます。<br>ヤマトの人はさらに死にそうな思いになっていますが（運送業者さんは今の時代、本当に過酷だと思います）</p></li><li><h2 id="送料、発送方法をあまり気にしなくなった"><a href="#送料、発送方法をあまり気にしなくなった" class="headerlink" title="送料、発送方法をあまり気にしなくなった"></a>送料、発送方法をあまり気にしなくなった</h2><p>上に書いた通りですね、匿名発送は偉大です。<br>送料をあまり気にしなくなった分、細かい利益額がアバウトになるってことになりますが…</p></li><li><h2 id="メルカリの販売手数料１０％は闇"><a href="#メルカリの販売手数料１０％は闇" class="headerlink" title="メルカリの販売手数料１０％は闇"></a>メルカリの販売手数料１０％は闇</h2><p>売れやすい、なんでも売れる、発送までの取引が楽といったメリットづくしのメルカリですが、これなんですよ、販売手数料１０％取られるんです。<br>例えば、1000円のものを売れば、100円取られ、5万円の者をうれば5000円取られます。恐ろしいです。<br>そして、送料を出品者込みにしていると、残されたお金から送料分が取られます。<br>売れるけど、単体としては販売価格からもらえる金額は少ないです。<br>なので、うまいこと売っていかないと、全然利益が上がらない！ということがあります。</p></li></ul><h1 id="何を売ってるか"><a href="#何を売ってるか" class="headerlink" title="何を売ってるか"></a>何を売ってるか</h1><p>基本的に家にある不用品を売っています。基本的に、送料込みの匿名発送をしています。</p><ul><li><p><strong>kpopグッズ</strong><br>CDについてるトレカを500円ぐらいで売って、普通郵便でおくります。利益は300円ぐらい？<br>これを大量に売っていきます。</p></li><li><p><strong>布</strong><br>母が昔裁縫をしていたのですが、しなくなったので、大量に布があります。それをハンドメイドを行っている人を対象にして売っています。</p></li><li><p><strong>着物</strong><br>母のが沢山あります。</p></li><li><p><strong>家電品</strong><br>私が家電とか好きなので、謎な最新機器が沢山ありますｗ(Google homeとか…)そういう要らなくなった家電を売っています。割と利益がありますｗ</p></li><li><p><strong>服、靴といったレディースもの</strong><br>メルカリで服を買う人が多いので、GUとかでも売れますｗ</p></li></ul><p>自分は基本的に早く売りたいというタイプなので、結構価格安めに設定し、大量にモノを売りつけてます（家にモノがあってしかたない…）<br>ある人は、利益を出すために１商品辺り必ず1000円は利益がでるようにしているそうです。その分、売れるまでに時間が掛かると思いますけどね。<br>私はいらっぱちなので待てないですね～～。</p><h1 id="個人的出品のコツ"><a href="#個人的出品のコツ" class="headerlink" title="個人的出品のコツ"></a>個人的出品のコツ</h1><ul><li><h2 id="土日、夜中に出品するべし"><a href="#土日、夜中に出品するべし" class="headerlink" title="土日、夜中に出品するべし"></a>土日、夜中に出品するべし</h2><p>土日の夜中が一番人がスマホをいじる時間なので、その日に出品したほうがいいらしいです。<br>私自身も、土日の買い取りの多さを肌で感じています。</p></li><li><h2 id="基本的に、送料は出品者負担"><a href="#基本的に、送料は出品者負担" class="headerlink" title="基本的に、送料は出品者負担"></a>基本的に、送料は出品者負担</h2><p>送料を出品者負担にすれば、匿名発送もできるし、売れやすいです。<br>らくらくメルカリ便、ゆうゆうメルカリ便を利用すれば、そこまで送料を気にせずに発送できます。</p></li><li><h2 id="あえて値下げ交渉OK-即購入OKにする"><a href="#あえて値下げ交渉OK-即購入OKにする" class="headerlink" title="あえて値下げ交渉OK,即購入OKにする"></a>あえて値下げ交渉OK,即購入OKにする</h2><p>値下げ交渉ＮＧや即購入ＮＧな人が結構見かけますが、そういう人の商品を買いたいって思いにくいですよね？私はめんどくさくて他のを探すと思います。<br>なので、あえて値下げ交渉OK、即購入OKとした方が売れやすいと思います。その代わり、めちゃくちゃ値下げ交渉されるようになります。<br>そこで、私は値下げ交渉される前提であえて値段を高めにして出品しています。利益が少なくなる可能性もありますが、そうしたほうが見てる人にとっては気軽に買いやすいと感じてくれると思います。</p></li><li><h2 id="コメント返信を怠らない"><a href="#コメント返信を怠らない" class="headerlink" title="コメント返信を怠らない"></a>コメント返信を怠らない</h2><p>コメント返信めんどくさくてやめるひとが多いですが、なるべく早くコメントは返信しましょう。そうすれば買い手さんに好印象を持ってもらえるので、商品を買ってくれる機会が増えます。</p></li><li><h2 id="画像しか表示されないので、画像に文字をつけるようにしている。"><a href="#画像しか表示されないので、画像に文字をつけるようにしている。" class="headerlink" title="画像しか表示されないので、画像に文字をつけるようにしている。"></a>画像しか表示されないので、画像に文字をつけるようにしている。</h2><p>メルカリのアプリの方では、検索項目に画像と値段しか載らなくなってしまったので、画像に重要な情報をつけるようにしています。<br>メルカリのアプリでは、出品する商品画像を加工する機能がはいっているので、それを使って文字を入れています。<br>例えば、布なんかは、柄とかは画像でみせればわかりますが、長さは伝わらないと思います。（結構、長さによって値段が変わるんですが…）<br>なので、長さを画像に入れて、「この長さでこの値段！安いでしょ！？」ということをアピールしています。</p></li></ul><p>そのほかにも、服を売っている人の中で、写真ではトップス、パンツ、バックをコーディネートした画像を載せて、だけどトップスだけ販売している人がいたりします。<br>目を惹く画像が重要なのでわざとそうしてる人もいるっぽいです。</p><h1 id="メリットばっかいってるけど、トラブルにも出くわした"><a href="#メリットばっかいってるけど、トラブルにも出くわした" class="headerlink" title="メリットばっかいってるけど、トラブルにも出くわした"></a>メリットばっかいってるけど、トラブルにも出くわした</h1><p>44品も売り上げているので、さすがにトラブルにも出くわしました。<br>ある商品を購入し、入金までしてくれたのですが、一回も私のメッセージに返信してくれなかった人がいました。<br>さらに、商品が届いたのにも関わらず受け取り評価をしてくれませんでした…<br>１週間ぐらい相手側のレスポンスがないと、事務局に取引を依頼するボタンが出てくるので、結局、事務局に取引終了をお願いし１週間たってから、やっとお金が振り込まれました。<br>そういう全く返信してくれない人がいたとしても、メルカリはケアをしてくれるのでどうにかなります。</p><p>まぁ、ただボタンをクリックするだけで評価できるのに、しないのが謎でしたね…</p><h1 id="最後に"><a href="#最後に" class="headerlink" title="最後に"></a>最後に</h1><p></p><blockquote class="twitter-tweet" data-lang="ja"><p lang="ja" dir="ltr">田端さん<a href="https://twitter.com/tabbata?ref_src=twsrc%5Etfw" target="_blank" rel="noopener">@tabbata</a> の考える<br>「お金持ち気分になれる人を増やす方法」<br><br>世はまさに、大評価経済時代。<br>さぁ、お金と信用のバトンを渡せ！ <a href="https://t.co/ulUmTAdBuA" target="_blank" rel="noopener">pic.twitter.com/ulUmTAdBuA</a></p>&mdash; 武内 宏伸 / 評価経済.com (@take08h) <a href="https://twitter.com/take08h/status/1001594970942291968?ref_src=twsrc%5Etfw" target="_blank" rel="noopener">2018年5月29日</a></blockquote><p></p><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script><p>ツイッターで流れてきたので拝借しました。<br>まさにコレってかんじです。<br>私は売り専ですが、謎の中毒性があります。すぐ売れるスピード感、不用品が減っていき綺麗になる家、１ヶ月で数万稼げるっていう３メリットが、メルカリにハマった理由なんかな～とおもいます。</p><p>これからはもっと不用品を売っていき、最終的には家具とか売る予定です笑。</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;&lt;img src=&quot;/micchi-site/2018/05/27/メルカリを始めて１ヶ月が経ちました。/mercari_logo.png&quot; alt=&quot;&quot;&gt;&lt;br&gt;5年ぐらい前はヤフオクを利用して不用品を売っていたのですが、あらゆるところでメルカリの方が売れる！簡単に売れる
+      
+    
+    </summary>
+    
+    
+      <category term="blog" scheme="https://micchi-fms.github.io/micchi-site/tags/blog/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Tumblrのテーマを作成しました</title>
+    <link href="https://micchi-fms.github.io/micchi-site/2017/07/01/Tumblr%E3%81%AE%E3%83%86%E3%83%BC%E3%83%9E%E3%82%92%E4%BD%9C%E6%88%90%E3%81%97%E3%81%BE%E3%81%97%E3%81%9F/"/>
+    <id>https://micchi-fms.github.io/micchi-site/2017/07/01/Tumblrのテーマを作成しました/</id>
+    <published>2017-06-30T15:00:00.000Z</published>
+    <updated>2018-05-31T12:35:46.922Z</updated>
+    
+    <content type="html"><![CDATA[<p><img src="https://i.gyazo.com/f9486b301fe19997f152dfcf730cb9ee.jpg" alt=""></p><p>Tumblrでポートフォリオサイトを開設するにあたって、テーマを作成したので紹介したいと思います。</p><h1 id="デザイン"><a href="#デザイン" class="headerlink" title="デザイン"></a>デザイン</h1><p><img src="https://gyazo.com/c21423e25bc859a3656355c23a2b4243.gif" alt="動画"></p><p>テーマは<strong>「ピンクと桃」</strong>をイメージしてつくりました。<br>背景の色はグラデーションをしていて、徐々に下にスクロールするごとにピンク色が薄くなります。<br>また、後ろから桃さんが浮かび上がるようにしました。</p><p><img src="https://i.gyazo.com/ac40f04cd56c366c28603de3772ce353.jpg" alt=""><br>TOPページでは、記事ごとの画像を桃の形に切り抜いたイメージ図を表示しています。<br>ポートフォリオなので、TOPには自分の作品についての記事だけを表示したかったので、WORKSタグがついた記事のみを表示しています。</p><p><img src="https://i.gyazo.com/2ec955975c344024d9b4e246fd0ef3d2.png" alt=""><br>HPの一番上にはメニューバーを表示し、タグごとに記事を表示するようにしています。</p><p>ブログをするためにtumblrを使う人が多いですが、HP向けに改造してみました笑</p><h1 id="開発方法"><a href="#開発方法" class="headerlink" title="開発方法"></a>開発方法</h1><ul><li>gulp</li><li>tumblr-upload(npm module)</li><li>EJS</li><li>Sass</li><li>jQuery<ul><li>infinite-Scroll</li><li>masonry</li></ul></li></ul><p>を使いました。<br>Tumblrテーマ開発を実際やってみて、かなり苦労したので、知見共有のために紹介したいと思います。</p><ul><li><p>1つのHTMLファイルしか上げられない<br>1つのHTMLファイルしか上げられないため、<br>EJSでHTMLファイルにコンパイル→JSファイルを埋め込み→ミニファイ<br>をしてからtumblr-uploadでtumblrに上げていました。</p></li><li><p>〇〇.tumblr.com/page/10000 でもページが存在してる<br>はい、なぜか存在してます。素人なのでサッパリ理由がわかりません。これが原因でinfinite-Scrollを利用するのに永遠にロードしてしまったことがあったので、修正するのに時間がかかりました。どう修正したかは忘れました。すみません。</p></li><li><p>分岐タグといった記法が難しい<br>記法が独特すぎて使いこなすのが大変でした。TOPページにある特定のタグの記事だけを表示するのに、そうとう苦労しました。どうやったかは忘れました…苦労したことは覚えています。</p></li></ul><h1 id="最後に"><a href="#最後に" class="headerlink" title="最後に"></a>最後に</h1><p>tumblrでテーマをつくるのはかなり大変でした。<br>まずNodeオンリーでローカルで開発する方法が見当たらず（Rubyを使ったのはありましたが、よくわかりませんでした…）テンプレートをデプロイする用のページを作成して開発してました。<br>また、素人ながら作っていたこともありますが、ページのロードがめちゃくちゃ重くなってしまいました。<br>そもそもtumblr自体めちゃくちゃ重いです。<br>重いのを軽くしようとする意欲も起きず、そのままで放置状態です。<br>また作り直すにはコストが高いので、いつかどっかの誰かがプルリクしてくれることを祈って、コードをGithubに上げようと思います。<br>githubにあげたら、tumblrのアカウント捨てるつもりです。さようなら。</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;&lt;img src=&quot;https://i.gyazo.com/f9486b301fe19997f152dfcf730cb9ee.jpg&quot; alt=&quot;&quot;&gt;&lt;/p&gt;&lt;p&gt;Tumblrでポートフォリオサイトを開設するにあたって、テーマを作成したので紹介したいと思います。&lt;/p&gt;&lt;h
+      
+    
+    </summary>
+    
+    
+      <category term="works" scheme="https://micchi-fms.github.io/micchi-site/tags/works/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>LiveMusicHackasongに参加しPepperを乱入させました</title>
+    <link href="https://micchi-fms.github.io/micchi-site/2017/01/26/LiveMusicHackasong%E3%81%AB%E5%8F%82%E5%8A%A0%E3%81%97Pepper%E3%82%92%E4%B9%B1%E5%85%A5%E3%81%95%E3%81%9B%E3%81%BE%E3%81%97%E3%81%9F/"/>
+    <id>https://micchi-fms.github.io/micchi-site/2017/01/26/LiveMusicHackasongに参加しPepperを乱入させました/</id>
+    <published>2017-01-25T15:00:00.000Z</published>
+    <updated>2018-05-31T10:30:03.799Z</updated>
+    
+    <content type="html"><![CDATA[<p><img src="/micchi-site/2017/01/26/LiveMusicHackasongに参加しPepperを乱入させました/a.png" alt=""></p><p>Live Music Hackasongという「ライブ体験の拡張」をテーマに技術やアイディアを競うハッカソンに、研究室内有志で参加しました。<br>そこで、Pepperを使用し、<strong>ライブに乱入できる</strong> 疑似体験システムを制作しました。</p><h1 id="Live-Music-Hackasongとは"><a href="#Live-Music-Hackasongとは" class="headerlink" title="Live Music Hackasongとは"></a>Live Music Hackasongとは</h1><blockquote><p>「ライブ体験の拡張」をテーマとした、ライブとテクノロジーを組み合わせることによって生まれる新たな演出技術や<br>ライブ体験以外での疑似体験など、新しい形のライブをテーマに技術やアイディアを競うハッカソン。</p></blockquote><p>と<a href="http://www.billboard-japan.com/hack2016" target="_blank" rel="noopener">公式HP</a>で書いてあります。</p><p>普通のハッカソンは２日間など短いスパンで行いますが、今回のハッカソンは３か月といった長い期間で行われました。<br>さらに、最終発表では、ビルボード東京で実際にアーティストの方に参加してもらいシステムの実演をしました。<br>しかも、アーティストさんが参加するだけではなく、審査員も有名な方がいらっしゃたり、司会もお笑い芸能人、そしてLineLiveで生中継と…キラキラしたハッカソンでした。</p><h1 id="つくったもの"><a href="#つくったもの" class="headerlink" title="つくったもの"></a>つくったもの</h1><p><iframe src="//www.slideshare.net/slideshow/embed_code/key/esNoGNjpRFFYNx" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #ccc;border-width:1px;margin-bottom:5px;max-width:100%" allowfullscreen></iframe></p><div style="margin-bottom:5px"><strong><a href="//www.slideshare.net/ssuserb93a46/ss-72128836" title="ライブステージ 乱入システム （公開用）" target="_blank">ライブステージ 乱入システム （公開用）</a> </strong>from <strong><a href="https://www.slideshare.net/ssuserb93a46" target="_blank">美智子 田澤</a></strong></div><br><em>↑細かい詳細はこちらをご覧ください。また<a href="https://me-or-hackathon.github.io/" target="_blank" rel="noopener">専用ページ</a>もあるので見てくださいｗ</em><p></p><p>ライブ中に、ヒートアップしてすぎてステージ上に乱入する観客がいると思います。<br>また、もっとアーティストの近くに行きたいと思う人も少なくないはずです。<br>そこで、<strong>「ライブに乱入したい」</strong>という気持ちを実現するために、かわりにPepperがライブに乱入し、Pepperの頭の上についている360度カメラの映像を観客はHMDを付けて視聴するというシステムをつくりました。<br>その上、視聴するだけではなく、観客はwifitやkinectを使いPepperを操作できるので、自由にアーティストとインタラクションがとれます。</p><h1 id="デモ映像"><a href="#デモ映像" class="headerlink" title="デモ映像"></a>デモ映像</h1><p><iframe width="560" height="315" src="https://www.youtube.com/embed/zRIYEmr0uOE" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe><br>デモ映像もつくりました。</p><h1 id="感想"><a href="#感想" class="headerlink" title="感想"></a>感想</h1><p>実演のときにギリギリPepperくんが動いてくれて、本当によかった…笑</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;&lt;img src=&quot;/micchi-site/2017/01/26/LiveMusicHackasongに参加しPepperを乱入させました/a.png&quot; alt=&quot;&quot;&gt;&lt;/p&gt;&lt;p&gt;Live Music Hackasongという「ライブ体験の拡張」をテーマに技術やアイディ
+      
+    
+    </summary>
+    
+    
+      <category term="works" scheme="https://micchi-fms.github.io/micchi-site/tags/works/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>PepperとARを組み合わせたお天気おしらせシステム</title>
+    <link href="https://micchi-fms.github.io/micchi-site/2017/01/01/Pepper%E3%81%A8AR%E3%82%92%E7%B5%84%E3%81%BF%E5%90%88%E3%82%8F%E3%81%9B%E3%81%9F%E3%81%8A%E5%A4%A9%E6%B0%97%E3%81%8A%E3%81%97%E3%82%89%E3%81%9B%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0/"/>
+    <id>https://micchi-fms.github.io/micchi-site/2017/01/01/PepperとARを組み合わせたお天気おしらせシステム/</id>
+    <published>2016-12-31T15:00:00.000Z</published>
+    <updated>2018-05-30T14:52:19.329Z</updated>
+    
+    <content type="html"><![CDATA[<p><img src="https://github.com/micchi-fms/PepperAR/blob/master/image/out2.gif" alt=""><br>PepperとAR技術を組み合わせて、Pepperに天気について聞くと、天気のマークを手に出現させ、天気情報を教えてくれるシステムを作成しました。</p><h1 id="作ったきっかけ"><a href="#作ったきっかけ" class="headerlink" title="作ったきっかけ"></a>作ったきっかけ</h1><p>冬休みの間にPepper開発にハマり、勉強がてら何かコンテンツをつくろうと思っている最中、丁度コンピュータビジョンという授業でARを使った自由制作課題がだされていたので、PepperとARを組み合わせたコンテンツを制作しました。</p><p><img src="https://i.gyazo.com/da90f539551dcc576177e353f19f1fac.jpg" alt=""><br>コンテンツのイメージとしては、SFアニメでよくあるロボットがホログラフを出現させるシーンを想像しました。<br>実際、スターウォーズのおもちゃで似たようなものはありますが、課題なんで許してくださいｗ</p><h1 id="実装"><a href="#実装" class="headerlink" title="実装"></a>実装</h1><p><a href="https://github.com/micchi-fms/PepperAR" target="_blank" rel="noopener">Github</a><br>に公開していますので、ご覧ください。</p><p>外国人に１スターもらってたりするので、いつか、英語に書き直したい…</p><h1 id="デモ動画"><a href="#デモ動画" class="headerlink" title="デモ動画"></a>デモ動画</h1><p><iframe width="560" height="315" src="https://www.youtube.com/embed/7kf0dqgL_VE" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe><br>Pepperにカメラを向けることで、Pepperの手から天気マークが浮かび上がります。</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;&lt;img src=&quot;https://github.com/micchi-fms/PepperAR/blob/master/image/out2.gif&quot; alt=&quot;&quot;&gt;&lt;br&gt;PepperとAR技術を組み合わせて、Pepperに天気について聞くと、天気のマークを手に出現させ
+      
+    
+    </summary>
+    
+    
+      <category term="works" scheme="https://micchi-fms.github.io/micchi-site/tags/works/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>2016年度IVRcにて日本VR学会賞を受賞しました</title>
+    <link href="https://micchi-fms.github.io/micchi-site/2016/10/30/2016%E5%B9%B4%E5%BA%A6IVRc%E3%81%AB%E3%81%A6%E6%97%A5%E6%9C%ACVR%E5%AD%A6%E4%BC%9A%E8%B3%9E%E3%82%92%E5%8F%97%E8%B3%9E%E3%81%97%E3%81%BE%E3%81%97%E3%81%9F/"/>
+    <id>https://micchi-fms.github.io/micchi-site/2016/10/30/2016年度IVRcにて日本VR学会賞を受賞しました/</id>
+    <published>2016-10-29T15:00:00.000Z</published>
+    <updated>2018-05-31T05:06:43.719Z</updated>
+    
+    <content type="html"><![CDATA[<p><img src="/micchi-site/2016/10/30/2016年度IVRcにて日本VR学会賞を受賞しました/a.png" alt=""></p><p>研究室の先輩たちの誘いもあって、IVRc2016に参加させていただきました。<br>当初の気持ちとしては、本当に手伝い気分で始めたのですが、VRに興味がある学生、専門家などいろんな方と交流ができ、今まで味わえない経験ができたので、参加して良かったと思っています。</p><h1 id="IVRcとは"><a href="#IVRcとは" class="headerlink" title="IVRcとは"></a>IVRcとは</h1><blockquote><p>国際学生対抗バーチャルリアリティコンテスト（IVRC, International collegiate Virtual Reality Contest）は、学生が企画・制作したインタラクティブ作品の新規性・技術的チャレンジ・体験のインパクトを競うコンテストです。</p></blockquote><p>詳しくは、公式ページがあるので<a href="http://ivrc.net" target="_blank" rel="noopener">こちら</a>をご覧ください。</p><h1 id="「ミミトンネル」"><a href="#「ミミトンネル」" class="headerlink" title="「ミミトンネル」"></a>「ミミトンネル」</h1><p>IVRcで出品した作品は「ミミトンネル」といって、耳の穴が貫通したときのわくわく感やスリルを体験することができる作品です。<br>詳細は、<a href="https://mimitunnel.github.io/" target="_blank" rel="noopener">HP</a>をご覧ください。</p><p>基本的には、先輩たちが中心になって取り組んでた中で、私自身は、実装にはあまり関わっていないのですが、アイディア出し、音作りを主に手伝いました。<br>HMDを使ったVR体験が多かったことがあり、あえてHMDを使わないVR体験を作ろうとアイディアの方を重要視していたため、ミミトンネルは実装よりかはアイディア出しに時間を費やしていたと思います。<br>私自身、VRコンテンツに取り組むこと、耳の間に通過する音を作ることは、どれも初めてのことばかりだったので、先輩方に助けてもらいながらやっていたのが印象にのこってます。<br>今現在はVRコンテンツをちょいちょい作っているので、これがきっかけでVRに興味がでてきたのかなーと思っています。</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;&lt;img src=&quot;/micchi-site/2016/10/30/2016年度IVRcにて日本VR学会賞を受賞しました/a.png&quot; alt=&quot;&quot;&gt;&lt;/p&gt;&lt;p&gt;研究室の先輩たちの誘いもあって、IVRc2016に参加させていただきました。&lt;br&gt;当初の気持ちとしては、本当
+      
+    
+    </summary>
+    
+    
+      <category term="works" scheme="https://micchi-fms.github.io/micchi-site/tags/works/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>とっと〇ハム太郎の模倣プログラムを作った</title>
+    <link href="https://micchi-fms.github.io/micchi-site/2016/07/01/%E3%81%A8%E3%81%A3%E3%81%A8%E3%80%87%E3%83%8F%E3%83%A0%E5%A4%AA%E9%83%8E%E3%81%AE%E6%A8%A1%E5%80%A3%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%A0%E3%82%92%E4%BD%9C%E3%81%A3%E3%81%9F/"/>
+    <id>https://micchi-fms.github.io/micchi-site/2016/07/01/とっと〇ハム太郎の模倣プログラムを作った/</id>
+    <published>2016-06-30T15:00:00.000Z</published>
+    <updated>2018-05-30T13:30:15.082Z</updated>
+    
+    <content type="html"><![CDATA[<p><img src="https://i.gyazo.com/fd18aad8391419dcab19de2067ef85f5.png" alt="画像"><br>映像アニメーションという授業で、「ゲーム作品中におけるモーションを、プログラムで模倣しろ」という課題がでたので、幼少期にハマっていた「とっとこハム太郎３ ラブラブ大冒険でちゅ」で出てくる、ハム太郎がりぼんちゃんを探しに行く途中、丸太をジャンプし、奥に移動するモーションを模倣しました。</p><h1 id="言語"><a href="#言語" class="headerlink" title="言語"></a>言語</h1><p>Processing</p><h1 id="デモ"><a href="#デモ" class="headerlink" title="デモ"></a>デモ</h1><p><img src="https://i.gyazo.com/d520ba525e4ab9cb2efa256c530f7b42.gif" alt="動画"><br>実際に自分自身でゲームのモーションを再現してみて、意外にプログラムを組むのに時間がかかり、ゲームプログラミングの難しさを実感しました。</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;&lt;img src=&quot;https://i.gyazo.com/fd18aad8391419dcab19de2067ef85f5.png&quot; alt=&quot;画像&quot;&gt;&lt;br&gt;映像アニメーションという授業で、「ゲーム作品中におけるモーションを、プログラムで模倣しろ」という課題がでたので、
+      
+    
+    </summary>
+    
+    
+      <category term="works" scheme="https://micchi-fms.github.io/micchi-site/tags/works/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>1分間の映像コンテンツを初めて作りました</title>
+    <link href="https://micchi-fms.github.io/micchi-site/2016/05/01/1%E5%88%86%E9%96%93%E3%81%AE%E6%98%A0%E5%83%8F%E3%82%B3%E3%83%B3%E3%83%86%E3%83%B3%E3%83%84%E3%82%92%E5%88%9D%E3%82%81%E3%81%A6%E4%BD%9C%E3%82%8A%E3%81%BE%E3%81%97%E3%81%9F/"/>
+    <id>https://micchi-fms.github.io/micchi-site/2016/05/01/1分間の映像コンテンツを初めて作りました/</id>
+    <published>2016-04-30T15:00:00.000Z</published>
+    <updated>2018-05-29T13:33:29.612Z</updated>
+    
+    <content type="html"><![CDATA[<p><img src="https://i.gyazo.com/6e34e4e9ac0e3cc8db7bce3a5348eb2b.png" alt="画像"></p><p>映像アニメーションという授業で。初めて映像作品を制作しました。</p><p>自分がイメージしたものを作りたっかたのですが、最初は動画をつくること自体そんなに慣れていないうえに、CGを使ったことが全くなかった状態でした。<br>ですが、モーショングラフィックが得意な友人に教わりつつ、奮闘しながら、なんとか完成にこぎつけた作品になっています。</p><p>評価は低かったですが(鏡に撮影者が反射していたりと、撮影技法が結構ダメダメです…)、反響が意外と良かったり、特に自分的に表現したいことが７割ぐらい実現できたので満足していますｗ</p><p>これをきっかけに、Adobe AfterEffectの使い方もなんとなく習得できたので、また動画編集が必要になったときにすぐ編集できる能力はつきました（笑）</p><h1 id="映像"><a href="#映像" class="headerlink" title="映像"></a>映像</h1><iframe width="560" height="315" src="https://www.youtube.com/embed/iM_3l68D2T8" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe><p>映像内容としては、仕事で疲れてしまって居眠りをこいた少年の話です。（ざっくり）<br>映像の内容よりかは、音楽と、不思議な奇妙な映像を感じてほしいと思ってます^^。</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;&lt;img src=&quot;https://i.gyazo.com/6e34e4e9ac0e3cc8db7bce3a5348eb2b.png&quot; alt=&quot;画像&quot;&gt;&lt;/p&gt;&lt;p&gt;映像アニメーションという授業で。初めて映像作品を制作しました。&lt;/p&gt;&lt;p&gt;自分がイメージしたものを作りた
+      
+    
+    </summary>
+    
+    
+      <category term="works" scheme="https://micchi-fms.github.io/micchi-site/tags/works/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Instagram×旅行日記ウェブコンテンツを作成しました</title>
+    <link href="https://micchi-fms.github.io/micchi-site/2016/01/02/Instagram%C3%97%E6%97%85%E8%A1%8C%E6%97%A5%E8%A8%98%E3%82%A6%E3%82%A7%E3%83%96%E3%82%B3%E3%83%B3%E3%83%86%E3%83%B3%E3%83%84%E3%82%92%E4%BD%9C%E6%88%90%E3%81%97%E3%81%BE%E3%81%97%E3%81%9F/"/>
+    <id>https://micchi-fms.github.io/micchi-site/2016/01/02/Instagram×旅行日記ウェブコンテンツを作成しました/</id>
+    <published>2016-01-01T15:00:00.000Z</published>
+    <updated>2018-05-29T13:12:37.667Z</updated>
+    
+    <content type="html"><![CDATA[<p><img src="https://i.gyazo.com/5560ba896ec9f2a0b18c4feecb8a0fb1.png" alt=""></p><p>コンテンツメディアプログラミング演習のグループ課題にて、Instagramで投稿されている旅行写真、動画を共有するシステム「Trippi」をグループで制作しました。</p><p>ただ、旅行写真をずらっと表示するのではなく、旅行写真ごとの位置情報を所得し、世界地図上でユーザーアイコンがその位置情報に沿って動くアニメーションをすることで、旅行ルートを提示します。</p><p>Instagram利用者の中で、旅行写真、動画を共有しつつ、ルートも共有でき、なおかつ地図上をただ眺めるだけでも面白いコンテンツになっています。</p><h1 id="背景"><a href="#背景" class="headerlink" title="背景"></a>背景</h1><p>Instagramでは、旅行した時の写真や、有名店、観光地に行った写真を挙げている人が多い印象がありました。<br>そこで、旅行にまず着目し、Instagramで投稿される旅行写真から位置情報を所得し、地図上に表示すれば、他のユーザーに旅行ルートやおすすめ旅行スポットをレコメンドできるのではないかと考え、このシステムを作成しました。</p><h1 id="実装"><a href="#実装" class="headerlink" title="実装"></a>実装</h1><ul><li>Instagram API<ul><li>sandboz modeがかなり厄介でした。</li></ul></li><li>Cesium.js</li><li>perl</li><li>PHP</li><li>HTML</li><li>CSS</li></ul><h1 id="動画"><a href="#動画" class="headerlink" title="動画"></a>動画</h1><p><iframe width="560" height="315" src="https://www.youtube.com/embed/r36206ffSgg" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe><br>授業課題で動画を作ることも課題の一つだったので、動画もあります。</p><h1 id="コンテンツ内容"><a href="#コンテンツ内容" class="headerlink" title="コンテンツ内容"></a>コンテンツ内容</h1><ul><li><h2 id="Trippiを利用する方法"><a href="#Trippiを利用する方法" class="headerlink" title="Trippiを利用する方法"></a>Trippiを利用する方法</h2><p><img src="/micchi-site/2016/01/02/Instagram×旅行日記ウェブコンテンツを作成しました/a.png" alt="画像"><br>投稿する際に、ハッシュタグ<br>「#trppi_cmp」「#trippi_cmp_(好きな名前)」を一緒に投稿します。<br>「#trppi_cmp」は、Trippiを利用するユーザを識別するために使います。<br>「#trippi_cmp_(好きな名前)」 は、ユーザが旅行中に廻ったスポットをまとめるために使用します。<br>なので、旅行中、同時期の写真に対しては、同じ名前を指定してもらいます。</p></li><li><h2 id="Trippiページにアクセス"><a href="#Trippiページにアクセス" class="headerlink" title="Trippiページにアクセス"></a>Trippiページにアクセス</h2><p><img src="https://gyazo.com/62558ccd83ebd87bc2741e0bd2b77b42.gif" alt="gif"><br><img src="/micchi-site/2016/01/02/Instagram×旅行日記ウェブコンテンツを作成しました/b.png" alt="画像"><br>Trippiのサイト上でOAuth認証を行うと、Instagramで登録しているアイコンが、上のように、地図上を駆け巡ります。</p></li><li><h2 id="フォローワー、フォローユーザーの旅行写真も見ることが可能"><a href="#フォローワー、フォローユーザーの旅行写真も見ることが可能" class="headerlink" title="フォローワー、フォローユーザーの旅行写真も見ることが可能"></a>フォローワー、フォローユーザーの旅行写真も見ることが可能</h2><p><img src="/micchi-site/2016/01/02/Instagram×旅行日記ウェブコンテンツを作成しました/d.png" alt="画像"><br>自身の旅行ルートが見れる他に、フォロー、フォロワーの旅行ルートも見ることができます。<br>また、このシステムを利用してるユーザー全体の情報も見ることができます。</p></li><li><h2 id="類似画像検索"><a href="#類似画像検索" class="headerlink" title="類似画像検索"></a>類似画像検索</h2><p><img src="/micchi-site/2016/01/02/Instagram×旅行日記ウェブコンテンツを作成しました/e.png" alt="画像"><br><img src="/micchi-site/2016/01/02/Instagram×旅行日記ウェブコンテンツを作成しました/f.png" alt="画像"><br>写真から類似画像を表示する機能も取り入れました。<br>類似画像の中で、気になった写真を選択すると、その写真を投稿したユーザーの旅行ルートが表示されます。<br>この機能を活用することで、ユーザーにおすすめな旅行先をレスポンスできるのではないかと考えています。</p></li></ul><h1 id="最後に"><a href="#最後に" class="headerlink" title="最後に"></a>最後に</h1><p>当時の発表を振り返ると、視覚的に楽しいということをアピールしすぎていて、作った主旨などを伝えきれず、あまり反応が良くなかったイメージがありました。</p><p>また、このシステムは、今Instagramでよく使われている機能「ストーリー」と、ユーザーの出来事を残すといった部分で、似ているコンテンツだと個人的に思っています。<br>アウトプット部分をもう少し閃いとけば、良いコンテンツになっていたのかなと、ちと反省しています。</p><p>にしても、InstagramのAPIは一生叩きたくない！！！</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;&lt;img src=&quot;https://i.gyazo.com/5560ba896ec9f2a0b18c4feecb8a0fb1.png&quot; alt=&quot;&quot;&gt;&lt;/p&gt;&lt;p&gt;コンテンツメディアプログラミング演習のグループ課題にて、Instagramで投稿されている旅行写真、動画を共有
+      
+    
+    </summary>
+    
+    
+      <category term="works" scheme="https://micchi-fms.github.io/micchi-site/tags/works/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>GoogleストリートビューAPIで疑似ドライブ体験コンテンツをつくった</title>
+    <link href="https://micchi-fms.github.io/micchi-site/2016/01/01/Google%E3%82%B9%E3%83%88%E3%83%AA%E3%83%BC%E3%83%88%E3%83%93%E3%83%A5%E3%83%BCAPI%E3%81%A7%E7%96%91%E4%BC%BC%E3%83%89%E3%83%A9%E3%82%A4%E3%83%96%E4%BD%93%E9%A8%93%E3%82%B3%E3%83%B3%E3%83%86%E3%83%B3%E3%83%84%E3%82%92%E3%81%A4%E3%81%8F%E3%81%A3%E3%81%9F/"/>
+    <id>https://micchi-fms.github.io/micchi-site/2016/01/01/GoogleストリートビューAPIで疑似ドライブ体験コンテンツをつくった/</id>
+    <published>2015-12-31T15:00:00.000Z</published>
+    <updated>2018-05-28T12:28:53.211Z</updated>
+    
+    <content type="html"><![CDATA[<p><img src="https://i.gyazo.com/f12f932a2484f6c61bda90e4be9d0db8.jpg" alt=""><br>Googleのストリートビュー画像を連続で表示していけば、路線上をクルマが走っている映像ができるのではないかと思い、Songle APIとGoogleストリートビューAPIを使用して、ドライブを疑似体験できるコンテンツ「どこでもドライブぅ～」を作成しました。</p><h1 id="実装"><a href="#実装" class="headerlink" title="実装"></a>実装</h1><ul><li>Songle API</li><li>Google ストリートビューAPI</li><li>javascript</li><li>HTML</li><li>CSS</li></ul><h1 id="デモ"><a href="#デモ" class="headerlink" title="デモ"></a>デモ</h1><p><img src="https://i.gyazo.com/19bba626ca44b442e6d2c1c0979f2005.gif" alt=""><br>ドライブといえば音楽なので、ドライブ映像に合わせた音楽を検索できる機能をつくりました。<br>このフォームで好きな音楽を選択してもらい、その後にドライブしたいルートを入力します。</p><p><img src="https://gyazo.com/41547edd8e0149d2c40bdd74ec8e78a5.gif" alt=""><br>そうすると、Googleストリートビューのパノラマ映像とSongleの動画情報が読み込まれ、音楽を聴きながら、ドライブ疑似体験映像が再生されます。</p><h1 id="つくってみて"><a href="#つくってみて" class="headerlink" title="つくってみて"></a>つくってみて</h1><p>googleストリートビューを読み込むのに相当な時間が掛かってしまうので、出発地と目的地は短くないといけないという欠点があります。<br>ですが、このGoogleストリートビューを使えば、例えばVRでドライブ体験ができる可能性があると考えています。</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;&lt;img src=&quot;https://i.gyazo.com/f12f932a2484f6c61bda90e4be9d0db8.jpg&quot; alt=&quot;&quot;&gt;&lt;br&gt;Googleのストリートビュー画像を連続で表示していけば、路線上をクルマが走っている映像ができるのではないかと思い、
+      
+    
+    </summary>
+    
+    
+      <category term="works" scheme="https://micchi-fms.github.io/micchi-site/tags/works/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>世界中でツイートされたEXOの画像を可視化してみた</title>
+    <link href="https://micchi-fms.github.io/micchi-site/2015/11/02/%E4%B8%96%E7%95%8C%E4%B8%AD%E3%81%A7%E3%83%84%E3%82%A4%E3%83%BC%E3%83%88%E3%81%95%E3%82%8C%E3%81%9FEXO%E3%81%AE%E7%94%BB%E5%83%8F%E3%82%92%E5%8F%AF%E8%A6%96%E5%8C%96%E3%81%97%E3%81%A6%E3%81%BF%E3%81%9F/"/>
+    <id>https://micchi-fms.github.io/micchi-site/2015/11/02/世界中でツイートされたEXOの画像を可視化してみた/</id>
+    <published>2015-11-01T15:00:00.000Z</published>
+    <updated>2018-05-28T11:13:55.391Z</updated>
+    
+    <content type="html"><![CDATA[<p><img src="https://i.gyazo.com/432241aee431efeda9f7a7a8bc862b4d.jpg" alt=""></p><p>ゼミでのPerlを使った課題で、ツイッターからEXOの画像を所得し、ツイートされた国別に画像を表示するコンテンツを作成しました。<br>国別のツイート画像を表示することで、他の国で人気なメンバーがわかると期待してつくりました。</p><h1 id="実装"><a href="#実装" class="headerlink" title="実装"></a>実装</h1><ul><li>Perl<ul><li>perlを使ってツイッターからEXOに関するツイート画像を所得します。</li></ul></li><li>google map</li><li>javascript</li><li>html</li><li>css</li></ul><h1 id="デモ"><a href="#デモ" class="headerlink" title="デモ"></a>デモ</h1><p><img src="https://gyazo.com/bb9022590b151b48ab372cc17b1195ae.gif" alt=""><br><img src="https://gyazo.com/7f9fef19091b48f49f17b5c838fec22a.gif" alt=""><br>Googleマップ上にある世界地図から、好きな国を選択します。<br>選択すると、ツイッターから選択された国でのEXOに関するツイートを読み込み、右カラムに画像が表示されるます。<br>実際、表示される国としては、中国、韓国、日本、アメリカと制限があります。</p><p><img src="https://gyazo.com/efc45dec19e907b05eb098aa346969b2.gif" alt=""><br>EXO以外にもSMRookiesのバージョンも作成しました。</p><h1 id="つくってみて"><a href="#つくってみて" class="headerlink" title="つくってみて"></a>つくってみて</h1><p>国別に人気あるメンバーが解るかな？と作ってみたのですが、日本以外の国から所得できるデータ数が少なく、いまいちわからなかったです。(日本ではベッキョン、中国ではチャニョル？ってことはなんとなく感じましたが…)</p><p>なぜ日本以外の国だとデータ数が減ってしまうのか、わからないので調べる必要があると感じました。</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;&lt;img src=&quot;https://i.gyazo.com/432241aee431efeda9f7a7a8bc862b4d.jpg&quot; alt=&quot;&quot;&gt;&lt;/p&gt;&lt;p&gt;ゼミでのPerlを使った課題で、ツイッターからEXOの画像を所得し、ツイートされた国別に画像を表示するコンテン
+      
+    
+    </summary>
+    
+    
+      <category term="works" scheme="https://micchi-fms.github.io/micchi-site/tags/works/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>シビュラシステムを模倣しました</title>
+    <link href="https://micchi-fms.github.io/micchi-site/2015/11/01/%E3%82%B7%E3%83%93%E3%83%A5%E3%83%A9%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0%E3%82%92%E6%A8%A1%E5%80%A3%E3%81%97%E3%81%BE%E3%81%97%E3%81%9F/"/>
+    <id>https://micchi-fms.github.io/micchi-site/2015/11/01/シビュラシステムを模倣しました/</id>
+    <published>2015-10-31T15:00:00.000Z</published>
+    <updated>2018-05-28T10:25:41.242Z</updated>
+    
+    <content type="html"><![CDATA[<p><img src="https://i.gyazo.com/8edfcf0fb615640c0999a40331b96c16.jpg" alt=""></p><p>アニメ「PSYCHO-PASS」で登場するシビュラシステムを模倣したWEBアプリを作ってみました。<br>犯罪係数を表示すると、そのままなので「変態係数」を表示しましたｗ</p><h1 id="シビュラシステム"><a href="#シビュラシステム" class="headerlink" title="シビュラシステム"></a>シビュラシステム</h1><p>アニメ「PSYCHO-PASS」で登場する、人間の心理状態や性格的傾向を「サイコパス」という値で数値化し管理するシステムです。</p><h1 id="実装方法"><a href="#実装方法" class="headerlink" title="実装方法"></a>実装方法</h1><ul><li>Javascrip</li><li>WebRTC</li><li>顔認識するAPI</li></ul><h1 id="デモ"><a href="#デモ" class="headerlink" title="デモ"></a>デモ</h1><p><img src="https://gyazo.com/11b3f195733789384d6da5997484ab8e.gif" alt=""><br>トップ画面から名前を入力し、そのままクリックボタンを押せば、変態係数が測定されます。<br>そして、ある一定の値を超えるとドミ〇ーターのセリフに似たアラートが表示されます。<br>また、自分の変態係数をツイートできるようにもしました。</p><p>おふざけ半分で制作したコンテンツになりますｗ</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;&lt;img src=&quot;https://i.gyazo.com/8edfcf0fb615640c0999a40331b96c16.jpg&quot; alt=&quot;&quot;&gt;&lt;/p&gt;&lt;p&gt;アニメ「PSYCHO-PASS」で登場するシビュラシステムを模倣したWEBアプリを作ってみました。&lt;br&gt;犯罪
+      
+    
+    </summary>
+    
+    
+      <category term="works" scheme="https://micchi-fms.github.io/micchi-site/tags/works/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>京都観光支援システムを作った</title>
+    <link href="https://micchi-fms.github.io/micchi-site/2015/09/01/%E4%BA%AC%E9%83%BD%E8%A6%B3%E5%85%89%E6%94%AF%E6%8F%B4%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0%E3%82%92%E4%BD%9C%E3%81%A3%E3%81%9F/"/>
+    <id>https://micchi-fms.github.io/micchi-site/2015/09/01/京都観光支援システムを作った/</id>
+    <published>2015-08-31T15:00:00.000Z</published>
+    <updated>2018-05-28T04:41:26.450Z</updated>
+    
+    <content type="html"><![CDATA[<p><img src="https://i.gyazo.com/4459b0356b5b7af19e014796520341d0.png" alt=""></p><p>ゼミ合宿で「京都」をテーマにしたチーム別ハッカソンを行いました。<br>そこで、京都で観光する際に、ユーザーがいる現在地から目的地の間で、京都を代表とする産物を扱っているお店に立ち寄れる最短ルートを呈示するシステムを制作しました。<br>これを使えば、目的地に行くまでに、京都の有名なお店を通り過ぎずに立ち寄れることができます。<br>そうすれば、「あぁ…あそこの通りに有名な店があったじゃん…」みたいな観光でよくある後悔もなくなり、観光が楽しくなると思います。</p><h1 id="使用言語"><a href="#使用言語" class="headerlink" title="使用言語"></a>使用言語</h1><ul><li>HTML</li><li>CSS</li><li>JavaScript</li><li>MySQL<ul><li>京都のお店情報と位置情報を登録しました。</li></ul></li><li>Google Map API<ul><li>途中の経由地点を「waypoints」として指定できる機能を使いました。</li></ul></li></ul><h1 id="デモ"><a href="#デモ" class="headerlink" title="デモ"></a>デモ</h1><p><img src="https://gyazo.com/450a18ebd1fe4f3a8479cc9b20139ea0.gif" alt="抹茶"></p><p>使い方としては、現在地、目的地、寄り道したジャンル（抹茶、八つ橋、着物、人力車）を選択し、データを送信します。<br>そうすると、寄り道を含めた目的地までの最短ルートが示されるという仕組みです。<br>また、お店情報も見ることができます。</p><p><img src="https://gyazo.com/2ea5765152986b2cb5a80629d1629515.gif" alt="ラーメン"></p><p>京都以外にも、大学キャンパスが「中野」ということから、中野バージョンも制作しました。<br>中野バージョンでの寄り道ジャンルは、ラーメン、居酒屋、カフェが選択できます。<br>観光地以外にも、暇つぶしにお店に寄りたいときに便利かもしれません。</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;&lt;img src=&quot;https://i.gyazo.com/4459b0356b5b7af19e014796520341d0.png&quot; alt=&quot;&quot;&gt;&lt;/p&gt;&lt;p&gt;ゼミ合宿で「京都」をテーマにしたチーム別ハッカソンを行いました。&lt;br&gt;そこで、京都で観光する際に、ユーザーが
+      
+    
+    </summary>
+    
+    
+      <category term="works" scheme="https://micchi-fms.github.io/micchi-site/tags/works/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>落書き投稿サイトを制作した</title>
+    <link href="https://micchi-fms.github.io/micchi-site/2015/08/01/%E8%90%BD%E6%9B%B8%E3%81%8D%E6%8A%95%E7%A8%BF%E3%82%B5%E3%82%A4%E3%83%88%E3%82%92%E5%88%B6%E4%BD%9C%E3%81%97%E3%81%9F/"/>
+    <id>https://micchi-fms.github.io/micchi-site/2015/08/01/落書き投稿サイトを制作した/</id>
+    <published>2015-07-31T15:00:00.000Z</published>
+    <updated>2018-05-28T03:35:32.184Z</updated>
+    
+    <content type="html"><![CDATA[<p><img src="https://i.gyazo.com/e4f2634315c140ffec5111cc2847e0e9.png" alt=""></p><p>ゼミでのPHPを使った自由課題で、落書き投稿サイトを制作してみました。</p><p>普通のらくがきサイトとは違い、「へたくそな絵を投稿する」ための落書きサイトを制作してみました。</p><h1 id="使用言語"><a href="#使用言語" class="headerlink" title="使用言語"></a>使用言語</h1><ul><li>PHP</li><li>MySQL</li><li>javascript</li><li>HTML</li><li>CSS</li></ul><h1 id="実装"><a href="#実装" class="headerlink" title="実装"></a>実装</h1><ul><li><p>アカウント登録機能<br><img src="https://gyazo.com/1b8aff617df429787ab1bd83e18c3d72.gif" alt=""><br>アカウント機能も実装しました。<br>メールアドレス、パスワードを設定することでアカウントが作れます。</p></li><li><p>絵描画機能<br><img src="https://gyazo.com/c2c0fad64dd432ba31facfd1e54b91a0.gif" alt=""><br><img src="https://gyazo.com/69c118d1a96658832cbf017edb90c20f.gif" alt=""><br>落書きした画像を載せるだけではつまらないので、その場で書いたものを投稿できるようにしました。<br>JavascraiptのCanvasを使って制作しました。</p></li><li><p>投稿ページ<br><img src="https://i.gyazo.com/d3521992d541abde5a484a066a745104.png" alt=""><br>自分の落書き全体がみることができます。</p></li><li><p>マイページ<br><img src="https://i.gyazo.com/8d8756b8f51069106ec5955cb4b19478.png" alt=""></p><ul><li>アイコン設定機能</li><li>背景</li><li>つぶやき</li><li>プロフィール<br>を載せることができます。</li></ul></li><li><p>ランキング機能<br><img src="https://gyazo.com/540f484c93b80898945db3730e40e14d.gif" alt=""><br>よくある「いいね！」機能と同じように、</p><ul><li>「センスがやばい」</li><li>「個展開けるレベル」</li><li>「平成のピカソ」<br>といったユーザーのリアクションを残せるようにしました。<br>また、そのリアクション数でそれぞれランキングを見えるようにしました。</li></ul></li></ul><h1 id="つくってみて"><a href="#つくってみて" class="headerlink" title="つくってみて"></a>つくってみて</h1><p>デザインまでは手をつけられなかったのですが、システム的には一般的なお絵かきサイトと同じようなものを初めて作成し、Webアプリを制作するむずかしさを実感しました。<br>特に、ページリンクを考えるのがとても難しかったです。</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;&lt;img src=&quot;https://i.gyazo.com/e4f2634315c140ffec5111cc2847e0e9.png&quot; alt=&quot;&quot;&gt;&lt;/p&gt;&lt;p&gt;ゼミでのPHPを使った自由課題で、落書き投稿サイトを制作してみました。&lt;/p&gt;&lt;p&gt;普通のらくがきサイトとは違
+      
+    
+    </summary>
+    
+    
+      <category term="works" scheme="https://micchi-fms.github.io/micchi-site/tags/works/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>BSoD2015に参加しました</title>
+    <link href="https://micchi-fms.github.io/micchi-site/2015/08/01/BSoD2015%E3%81%AB%E5%8F%82%E5%8A%A0%E3%81%97%E3%81%BE%E3%81%97%E3%81%9F/"/>
+    <id>https://micchi-fms.github.io/micchi-site/2015/08/01/BSoD2015に参加しました/</id>
+    <published>2015-07-31T15:00:00.000Z</published>
+    <updated>2018-05-28T05:29:09.669Z</updated>
+    
+    <content type="html"><![CDATA[<p><img src="https://i.gyazo.com/151f03638fa1691b238a6099d0c5b6d0.png" alt=""><br>大学内有志で開かれたBSoDというイベントに友人と共に参加しました！</p><h1 id="BSoDとは"><a href="#BSoDとは" class="headerlink" title="BSoDとは"></a>BSoDとは</h1><p>BSoDは、「DJが主流の中、VJを主流にしたイベントがあってもいいんじゃないか」という趣旨のもと立ち上げれた失敗上等の実験型VJイベントになります。</p><h1 id="やったこと"><a href="#やったこと" class="headerlink" title="やったこと"></a>やったこと</h1><p>そこで作成したVJは、Kinectから、リアルタイムに観客の様子を撮影し、<br>その映像に対して、いろんなエフェクトを与えるものを作りました。</p><p>オブジェクトは友人が作成し、私はKinectとProcessingをつかったエフェクト、プログラムのマージなどを行いました。</p><p><img src="https://gyazo.com/35a03e5d115443616a035b513e10e60b.gif" alt=""><br>このGIFは、BSoDに来ていたある方の<a href="https://twitter.com/tommy_zina/status/630299536628449280" target="_blank" rel="noopener">ツイート</a>から引用させていただきました。(ツイートしてくれた方ありがとうございます。)</p><p>VJとは？という感じで友人に誘われて参加しましたが、自分ひとりじゃしないような経験ができて楽しかったですｗｗ</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;&lt;img src=&quot;https://i.gyazo.com/151f03638fa1691b238a6099d0c5b6d0.png&quot; alt=&quot;&quot;&gt;&lt;br&gt;大学内有志で開かれたBSoDというイベントに友人と共に参加しました！&lt;/p&gt;&lt;h1 id=&quot;BSoDとは&quot;&gt;&lt;a h
+      
+    
+    </summary>
+    
+    
+      <category term="works" scheme="https://micchi-fms.github.io/micchi-site/tags/works/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>バイト支援サイト「僕の社畜人生」を作った</title>
+    <link href="https://micchi-fms.github.io/micchi-site/2015/06/01/%E3%83%90%E3%82%A4%E3%83%88%E6%94%AF%E6%8F%B4%E3%82%B5%E3%82%A4%E3%83%88%E3%80%8C%E5%83%95%E3%81%AE%E7%A4%BE%E7%95%9C%E4%BA%BA%E7%94%9F%E3%80%8D%E3%82%92%E4%BD%9C%E3%81%A3%E3%81%9F/"/>
+    <id>https://micchi-fms.github.io/micchi-site/2015/06/01/バイト支援サイト「僕の社畜人生」を作った/</id>
+    <published>2015-05-31T15:00:00.000Z</published>
+    <updated>2018-05-28T03:59:40.983Z</updated>
+    
+    <content type="html"><![CDATA[<p><img src="https://i.gyazo.com/9d410f859aa8a9836f78de442ef73935.png" alt=""></p><p>ゼミでのPHPとWebAPIを使った自由課題で、当時バイトに明け暮れていたことから、「僕の社畜人生」というバイト支援サイトを制作しました</p><h1 id="使用言語"><a href="#使用言語" class="headerlink" title="使用言語"></a>使用言語</h1><ul><li>PHP</li><li>WebAPI</li><li>Googleカレンダーから出力されるXML</li></ul><h1 id="実装"><a href="#実装" class="headerlink" title="実装"></a>実装</h1><ul><li>バイト代を計算してくれる機能<br>Googleカレンダーで「バイト」というスケジュールから、バイト代を計算します。<br>実装方法は、サイト内にあるGoogleカレンダーのXMLデータを登録するフォームから、URLを登録してもらい、そのXMLデータから「バイト」スケジュール情報を所得しました。</li></ul><p>現在は、おそらくGoogleカレンダーからXMLは取ってこれないと思います。</p><ul><li><p>バイト情報を検索する機能<br><img src="https://gyazo.com/0b90c029e57fefc411333bfea6335ca1.gif" alt=""><br>どのAPIを使用したか忘れてしまいましたが、バイト情報を検索する機能も取り入れました。</p></li><li><p>Youtube動画を検索する機能<br><img src="https://gyazo.com/83bbbf89486ebea779c4c6f100249c30.gif" alt=""><br>APIを２個使えという課題だったので、YoutubeAPIを使って、おまけとして制作しました。</p></li></ul><h1 id="さいごに"><a href="#さいごに" class="headerlink" title="さいごに"></a>さいごに</h1><p>今思うと、OAuth認証してデータを取ってくるという方法があると思うので、今度はOAuth認証を使ってバイト支援サイトを制作したいなと考えています。</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;&lt;img src=&quot;https://i.gyazo.com/9d410f859aa8a9836f78de442ef73935.png&quot; alt=&quot;&quot;&gt;&lt;/p&gt;&lt;p&gt;ゼミでのPHPとWebAPIを使った自由課題で、当時バイトに明け暮れていたことから、「僕の社畜人生」というバイ
+      
+    
+    </summary>
+    
+    
+      <category term="works" scheme="https://micchi-fms.github.io/micchi-site/tags/works/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>はじめてHPをつくりました</title>
+    <link href="https://micchi-fms.github.io/micchi-site/2015/04/01/%E3%81%AF%E3%81%98%E3%82%81%E3%81%A6HP%E3%82%92%E3%81%A4%E3%81%8F%E3%82%8A%E3%81%BE%E3%81%97%E3%81%9F/"/>
+    <id>https://micchi-fms.github.io/micchi-site/2015/04/01/はじめてHPをつくりました/</id>
+    <published>2015-03-31T15:00:00.000Z</published>
+    <updated>2018-05-27T12:06:16.722Z</updated>
+    
+    <content type="html"><![CDATA[<p><img src="https://gyazo.com/4bb0e8aa4a0bcdf76cea8d599e7760ef.jpg" alt=""></p><p>学部2年生で、中村研究室に所属することになり、配属初めの課題として、<br>jQuery,HTML,CSSを使ってHP作成にとりかかりました。</p><p><img src="https://gyazo.com/d22c2c4ff559af9794cffc8b832045c2.gif" alt=""></p><p>Youtube動画を背景にできるjQueryのライブラリーを使用し、背景を好きなアイドルの動画にしたり、写真を選択すると、自分の好きな食べ物や趣味をポップアップで表示するようにしました。</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;&lt;img src=&quot;https://gyazo.com/4bb0e8aa4a0bcdf76cea8d599e7760ef.jpg&quot; alt=&quot;&quot;&gt;&lt;/p&gt;&lt;p&gt;学部2年生で、中村研究室に所属することになり、配属初めの課題として、&lt;br&gt;jQuery,HTML,CSSを使って
+      
+    
+    </summary>
+    
+    
+      <category term="works" scheme="https://micchi-fms.github.io/micchi-site/tags/works/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Locomo×Leapmotion×ARをつかってドラ〇もんを出現させた</title>
+    <link href="https://micchi-fms.github.io/micchi-site/2015/01/01/Locomo%C3%97Leapmotion%C3%97AR%E3%82%92%E3%81%A4%E3%81%8B%E3%81%A3%E3%81%A6%E3%83%89%E3%83%A9%E3%80%87%E3%82%82%E3%82%93%E3%82%92%E5%87%BA%E7%8F%BE%E3%81%95%E3%81%9B%E3%81%9F/"/>
+    <id>https://micchi-fms.github.io/micchi-site/2015/01/01/Locomo×Leapmotion×ARをつかってドラ〇もんを出現させた/</id>
+    <published>2014-12-31T15:00:00.000Z</published>
+    <updated>2018-05-27T10:23:34.867Z</updated>
+    
+    <content type="html"><![CDATA[<p><img src="https://gyazo.com/a527aae4bc4e1ebbf17b1475a9b75097.jpg" alt=""><br>学部1年のプログラミング演習Ⅱで,Processing,Arudinoを使ったものを制作する課題が出され、そこでLocomoとLeapmotion,ARを使ったコンテンツを作成し、発表いたしました。</p><h1 id="プログラミング演習Ⅱ"><a href="#プログラミング演習Ⅱ" class="headerlink" title="プログラミング演習Ⅱ"></a>プログラミング演習Ⅱ</h1><p>プログラミング演習Ⅱは、Processingという言語を習得する授業で、授業最後に、グループでお題にあったコンテンツを制作し、ホールで発表します。<br>グループで一つのコンテンツをつくるので、一人ではできないものが作れる良さ半分、グループで協力していく大変さを感じました。</p><h1 id="コンテンツ内容"><a href="#コンテンツ内容" class="headerlink" title="コンテンツ内容"></a>コンテンツ内容</h1><iframe width="560" height="315" src="https://www.youtube.com/embed/Wc6NUOIudko" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe><p>まず、XBeeでARマーカーを載せたLocmoを動かし、その状態をカメラで撮影します。<br>カメラからの映像をプログラム上で確認でき、ARマーカが認識されると、ドラ〇もんが表示されます。<br>その ドラ〇もんに対して、Leapmotionで触ったりといったインタラクションを与えると、 ドラ〇もんが道具をつかって、いろんな動作をします。<br>詳しくは、映像があるのでご覧ください。</p><p>私は、その中で、ProcessingでのAR処理、ドラ〇もんの動きを制作しました。<br>ProcessingのAR処理は初めてだったので、技術的にいい経験ができたと思っています。<br>しかし、使いたい技術を組み合わせただけで、主旨が見えないコンテンツになってしまったのが反省点です。</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;&lt;img src=&quot;https://gyazo.com/a527aae4bc4e1ebbf17b1475a9b75097.jpg&quot; alt=&quot;&quot;&gt;&lt;br&gt;学部1年のプログラミング演習Ⅱで,Processing,Arudinoを使ったものを制作する課題が出され、そこでLoco
+      
+    
+    </summary>
+    
+    
+      <category term="works" scheme="https://micchi-fms.github.io/micchi-site/tags/works/"/>
+    
+  </entry>
+  
+  <entry>
     <title>HackU明治大学2014に参加しました</title>
     <link href="https://micchi-fms.github.io/micchi-site/2014/09/01/HackU%E6%98%8E%E6%B2%BB%E5%A4%A7%E5%AD%A62014%E3%81%AB%E5%8F%82%E5%8A%A0%E3%81%97%E3%81%BE%E3%81%97%E3%81%9F/"/>
     <id>https://micchi-fms.github.io/micchi-site/2014/09/01/HackU明治大学2014に参加しました/</id>
     <published>2014-08-31T15:00:00.000Z</published>
-    <updated>2018-05-27T07:01:39.476Z</updated>
+    <updated>2018-05-27T07:45:47.620Z</updated>
     
-    <content type="html"><![CDATA[<p><img src="/2014/09/01/HackU明治大学2014に参加しました/a.png" alt=""></p><p>2014年9月に開催されたYahoo Japan主催のハッカソンイベントHackUに参加しました。<br>Hack Uについては<a href="https://hacku.yahoo.co.jp/meiji2014/" target="_blank" rel="noopener">こちら</a>をご覧ください。</p><p>そこでは、チーム甲府という名前で参加し、<br>夕食を決めるのをサポートしてくれるシステム 「Fishing Dinner」という作品を発表しました。</p><h1 id="システム内容"><a href="#システム内容" class="headerlink" title="システム内容"></a>システム内容</h1><p>夕食を決めるのについ考え込んでしまうことがあります。<br>そこで、楽しみながら今日夕食の献立を考えれば、ユーザー体験としていいのではないかと考え、釣りをして、釣ったものから夕食の献立のおすすめがレスポンスされるというシステムを作りました。</p><p>釣り？（謎）という感じですが、学生ハッカソンならではに考えてみました。</p><p><img src="https://gyazo.com/03e291e746533923acaa5fac18e6e495.gif" alt=""></p><p>釣り？の具体的なやり方としては、釣り竿の持ち手にスマートフォンをくくりつけ、「Fishing Dinner」を起動させています。<br>また、仮想的な釣り場をつくるために、天井からプロジェクタをつるし、池を表示させます。<br>発表のときは、プロジェクターをつるすことはできなかったので、釣り竿をスクリーンに向けてデモを行いました。</p><p><img src="https://gyazo.com/127ef25921a46a83e27aeae62691d96f.jpg" alt=""></p><p>池を表示させた後、釣りをする動作をすると、獲物が引っ掛かり、スマホのバイブレーションが鳴ります。<br>釣れた合図と同時に、アプリ内で、釣れた獲物（食材）が表示されます。<br>その食材を選択すると、クックパッドにとび、その食材を使った料理が表示される仕組みです。</p><h1 id="参加して"><a href="#参加して" class="headerlink" title="参加して"></a>参加して</h1><p>１年生でもあり、技術力も全くなかったのですが、<br>Yahooの方やチームの人の協力もあって、<br>楽しくでき、とても良い経験になりました。</p>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;p&gt;&lt;img src=&quot;/2014/09/01/HackU明治大学2014に参加しました/a.png&quot; alt=&quot;&quot;&gt;&lt;/p&gt;&lt;p&gt;2014年9月に開催されたYahoo Japan主催のハッカソンイベントHackUに参加しました。&lt;br&gt;Hack Uについては&lt;a href=&quot;
-      
-    
-    </summary>
-    
-    
-      <category term="works" scheme="https://micchi-fms.github.io/micchi-site/tags/works/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Processingでカードキャプターさくらの封印の杖を作った</title>
-    <link href="https://micchi-fms.github.io/micchi-site/2014/07/01/Processing%E3%81%A7%E3%82%AB%E3%83%BC%E3%83%89%E3%82%AD%E3%83%A3%E3%83%97%E3%82%BF%E3%83%BC%E3%81%95%E3%81%8F%E3%82%89%E3%81%AE%E5%B0%81%E5%8D%B0%E3%81%AE%E6%9D%96%E3%82%92%E4%BD%9C%E3%81%A3%E3%81%9F/"/>
-    <id>https://micchi-fms.github.io/micchi-site/2014/07/01/Processingでカードキャプターさくらの封印の杖を作った/</id>
-    <published>2014-06-30T15:00:00.000Z</published>
-    <updated>2018-05-27T05:08:34.757Z</updated>
-    
-    <content type="html"><![CDATA[<p><img src="/2014/07/01/Processingでカードキャプターさくらの封印の杖を作った/a.png" alt="画像"></p><p>学部1年のプログラミング演習という授業で、「道具」を模倣したプログラムを制作する課題から、<br>Processingを使って、カードキャプターさくらの封印の杖の動作を模倣してみました。</p><h1 id="プログラミング演習"><a href="#プログラミング演習" class="headerlink" title="プログラミング演習"></a>プログラミング演習</h1><p>学部1年生、５月～７月の間に行われるクォータ授業で、<br>短い間にProcessingという言語を学習します。<br>最終授業であるテーマにそった自由課題がだされ、作成したものをみんなの前で発表します。</p><h1 id="デモ"><a href="#デモ" class="headerlink" title="デモ"></a>デモ</h1><p>動作状況は以下になります。</p><p><img src="https://gyazo.com/993bd02465e576fb89e5f75f9b2b6629.gif" alt="画像1"></p><ul><li>いろんな角度から封印の杖が見ることができます。</li></ul><p><img src="https://gyazo.com/993bd02465e576fb89e5f75f9b2b6629.gif" alt="画像2"></p><ul><li>エンターキーを押すことで、クローカードを呼び出すことができます。</li></ul><p><img src="https://gyazo.com/f6411c92df592e8393c5131cb18b6ddd.gif" alt="画像3"><br><img src="https://gyazo.com/360f9463e52caa94006d5b02997589aa.gif" alt=""></p><ul><li>追加機能として、クリーチャーをクローカードに取り込む要素もいれました。</li></ul><h1 id="おわり"><a href="#おわり" class="headerlink" title="おわり"></a>おわり</h1><p>このモデルは、Blenderといった3Dモデリングツールを使わずに、すべてProcessingで実装したものになります。<br>めっちゃ力技ですｗｗｗ<br>これを作ったあたりから、すこしプログラミングで3Dモデル表示や、グラフィック技術に興味がではじめたのかなーと思ってます。</p>]]></content>
+    <content type="html"><![CDATA[<p><img src="/micchi-site/2014/09/01/HackU明治大学2014に参加しました/a.png" alt=""></p><p>2014年9月に開催されたYahoo Japan主催のハッカソンイベントHackUに参加しました。<br>Hack Uについては<a href="https://hacku.yahoo.co.jp/meiji2014/" target="_blank" rel="noopener">こちら</a>をご覧ください。</p><p>そこでは、チーム甲府という名前で参加し、<br>夕食を決めるのをサポートしてくれるシステム 「Fishing Dinner」という作品を発表しました。</p><h1 id="システム内容"><a href="#システム内容" class="headerlink" title="システム内容"></a>システム内容</h1><p>夕食を決めるのについ考え込んでしまうことがあります。<br>そこで、楽しみながら今日夕食の献立を考えれば、ユーザー体験としていいのではないかと考え、釣りをして、釣ったものから夕食の献立のおすすめがレスポンスされるというシステムを作りました。</p><p>釣り？（謎）という感じですが、学生ハッカソンならではに考えてみました。</p><p><img src="https://gyazo.com/03e291e746533923acaa5fac18e6e495.gif" alt=""></p><p>釣り？の具体的なやり方としては、釣り竿の持ち手にスマートフォンをくくりつけ、「Fishing Dinner」を起動させています。<br>また、仮想的な釣り場をつくるために、天井からプロジェクタをつるし、池を表示させます。<br>発表のときは、プロジェクターをつるすことはできなかったので、釣り竿をスクリーンに向けてデモを行いました。</p><p><img src="https://gyazo.com/127ef25921a46a83e27aeae62691d96f.jpg" alt=""></p><p>池を表示させた後、釣りをする動作をすると、獲物が引っ掛かり、スマホのバイブレーションが鳴ります。<br>釣れた合図と同時に、アプリ内で、釣れた獲物（食材）が表示されます。<br>その食材を選択すると、クックパッドにとび、その食材を使った料理が表示される仕組みです。</p><h1 id="参加して"><a href="#参加して" class="headerlink" title="参加して"></a>参加して</h1><p>１年生でもあり、技術力も全くなかったのですが、<br>Yahooの方やチームの人の協力もあって、<br>楽しくでき、とても良い経験になりました。</p>]]></content>
     
     <summary type="html">
     
       
       
-        &lt;p&gt;&lt;img src=&quot;/2014/07/01/Processingでカードキャプターさくらの封印の杖を作った/a.png&quot; alt=&quot;画像&quot;&gt;&lt;/p&gt;&lt;p&gt;学部1年のプログラミング演習という授業で、「道具」を模倣したプログラムを制作する課題から、&lt;br&gt;Processingを
-      
-    
-    </summary>
-    
-    
-      <category term="works" scheme="https://micchi-fms.github.io/micchi-site/tags/works/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>どぎまぎメモリアル</title>
-    <link href="https://micchi-fms.github.io/micchi-site/2014/05/01/%E3%81%A9%E3%81%8E%E3%81%BE%E3%81%8E%E3%83%A1%E3%83%A2%E3%83%AA%E3%82%A2%E3%83%AB/"/>
-    <id>https://micchi-fms.github.io/micchi-site/2014/05/01/どぎまぎメモリアル/</id>
-    <published>2014-04-30T15:00:00.000Z</published>
-    <updated>2018-05-27T03:17:34.471Z</updated>
-    
-    <content type="html"><![CDATA[<p><img src="/2014/05/01/どぎまぎメモリアル/a.png" alt="画像"></p><p>EP演習という授業の自由制作課題の一環で制作した恋愛ゲームです。<br>入学したばかりで、プログラミングするのは初めてだったので、<br>いろんな人に協力してもらいながら制作しました(笑)</p><h1 id="EP演習とは"><a href="#EP演習とは" class="headerlink" title="EP演習とは"></a>EP演習とは</h1><p>EP演習とは、入学どはじめに行うHSPを使ったプログラミング授業です。<br>週２回４コマ（たしか）のクォーター授業で、短い期間でプログラミングを習得し、<br>最後に全体を通して、自分が制作したオモシロコンテンツを発表します。</p><p>最後の発表会が大学ホールで行い、外部の方や先輩、OBなどが見に来てくれるので、<br>全体的にワイワイガヤガヤした、高校でいう体育祭的なノリです（たぶん）</p><p>盛り上がったら勝ちみたいな文化があるので、<br>やる気がある人は、面白いもの、技術力すごいものをつくることが多いです（いまは知らないです）<br>入学式初っ端に、みんなの前で発表するので、大やけどする可能性も高いですが（今後の大学生活に関わりそう…）</p><h1 id="コンテンツ内容"><a href="#コンテンツ内容" class="headerlink" title="コンテンツ内容"></a>コンテンツ内容</h1><p>制作した内容としては、クリチャーと恋愛する乙女ゲームです。<br>普通の乙女ゲームだと面白くないので、謎の生物と恋愛をするというツッコミどころが多いものを制作してみましたｗ</p><h2 id="プレイ画面"><a href="#プレイ画面" class="headerlink" title="プレイ画面"></a>プレイ画面</h2><p><img src="https://gyazo.com/01d74ffe3eed4afe6f448f961c3a72ab.gif" alt="画像1"></p><p>相手を選択する画面から好きな相手を選択し、ゲームがスタートします。</p><p><img src="https://gyazo.com/c5c4b72604ffcef21a3e54d820fe7138.jpg" alt="画像2"></p><p>セリフ選択画面も制作し、選択肢ごとにシナリオルートが変更するようにしました。</p><p><img src="https://gyazo.com/8b4db981df17b97999e7e08e348b7c75.gif" alt="画像3"></p><p>良くない選択肢を選ぶと、クリチャーに食われるというブラックエンドが待っています。</p><p><img src="https://gyazo.com/4d6db9dc74302dc0204a7719c589bcc0.gif" alt="画像4"></p><p>ブラックエンドにならずに順調に進んでいくと、クリチャーと結婚するというハッピーエンドが待ってます。</p><h1 id="最後に"><a href="#最後に" class="headerlink" title="最後に"></a>最後に</h1><p>プログラミングが全くわからない状況だったので、先輩にHSPを教えてもらったり、<br>クリーチャーの絵が書けなかったので友人に絵を依頼したり、いろんな方に協力を得て制作しました。</p><p>３日間ぐらいで一気に制作したのですが、本番では結構ウケてもらい、<br>これがきっかけで、プログラミングを真面目に頑張るようになったと思います。</p>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;p&gt;&lt;img src=&quot;/2014/05/01/どぎまぎメモリアル/a.png&quot; alt=&quot;画像&quot;&gt;&lt;/p&gt;&lt;p&gt;EP演習という授業の自由制作課題の一環で制作した恋愛ゲームです。&lt;br&gt;入学したばかりで、プログラミングするのは初めてだったので、&lt;br&gt;いろんな人に協力してもらい
+        &lt;p&gt;&lt;img src=&quot;/micchi-site/2014/09/01/HackU明治大学2014に参加しました/a.png&quot; alt=&quot;&quot;&gt;&lt;/p&gt;&lt;p&gt;2014年9月に開催されたYahoo Japan主催のハッカソンイベントHackUに参加しました。&lt;br&gt;Hack Uにつ
       
     
     </summary>
