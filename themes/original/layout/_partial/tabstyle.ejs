@@ -1,0 +1,35 @@
+<div class="tabs page-tab clearfix">
+    <%# box-shadowをnoneにする %>
+    <% var currentTab; %>
+    <% if( is_tag() ){
+        currentTab='page-tab-'+page.tag;
+    }else{
+        currentTab='page-tab-top';
+    } %>
+    
+    <nav>
+        <ul>
+            <li>
+                <a href="<%- url_for() %>" class="page-tab-top <%- is_tag()? ' ' : 'current' %>" >
+                    <span>HOME</span>
+                </a>
+            </li>
+            <% site.tags.each(function(tag){ %>
+                <li>
+                    <a href="<%- url_for(tag.path) %>" class="page-tab-<%- tag.name %> <%- is_tag(tag.name)? 'current' : ' ' %>" >
+                        <span>
+                            <%- tag.name %>
+                        </span>
+                    </a>
+                </li>
+            <% }) %>
+        </ul>
+    </nav>
+    <div class="tab-content-wrap <%- currentTab %> clearfix">
+        <ul class="post-list clearfix">
+                <% page.posts.each(function(post){ %>
+                    <%- partial('post', {post: post}) %>
+                <% }) %>
+        </ul>
+    </div>
+</div>
